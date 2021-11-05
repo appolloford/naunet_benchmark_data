@@ -1,0 +1,4 @@
+evolution.dat filter=lfs diff=lfs merge=lfs -text
+cellabund.dat filter=lfs diff=lfs merge=lfs -text
+test_rates.dat filter=lfs diff=lfs merge=lfs -text
+Kout.dat filter=lfs diff=lfs merge=lfs -text

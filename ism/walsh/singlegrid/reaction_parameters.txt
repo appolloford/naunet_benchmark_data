@@ -1,0 +1,28 @@
+! REACTION PARAMETERS FOR ENVELOPE MODEL
+! Number of reactions types to switch off
+8
+! List of reaction types
+7 8 9 10 11 12 13 14
+
+ 1 = two-body gas-phase reaction
+ 2 = direct cosmic-ray ionisation
+ 3 = cosmic-ray-induced photoreaction
+ 4 = photoreaction
+ 5 = direct X-ray ionisation
+ 6 = cation-grain recombination
+ 7 = accretion
+ 8 = thermal desorption
+ 9 = cosmic-ray-induced thermal desorption
+10 = photodesorption
+11 = grain-surface cosmic-ray-induced photoreaction
+12 = grain-surface photoreaction
+13 = two-body grain-surface reaction
+14 = reactive desorption 
+15 = three-body association *
+16 = collisional dissociation *
+17 = collisional de-excitation of H2* *
+18 = Lyman-alpha photoreaction *
+19 = radiative de-excitation of H2* *
+20 = grain electron capture rate 
+
+* reactions not used in dark cloud/envelope model

@@ -1,0 +1,9 @@
+! RADIATION FIELD PARAMETERS FOR ENVELOPE MODEL
+! Interstellar radiation field (Draine field; erg cm-2 s-1)     
+1.600E-03
+! Interstellar radiation field (Habing field; photons cm-2 s-1) 
+1.000E+08 
+! Cosmic-ray ionisation rate (s-1)
+1.300E-17
+! Cosmic-ray-induced UV photon flux (photons cm-2 s-1)
+1.000E+04

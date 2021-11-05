@@ -1,0 +1,19 @@
+! GRAIN PARAMETERS FOR ENVELOPE MODEL
+! Grain radius (cm)      
+1.00E-05
+! Grain albedo (in the far-UV)
+5.00E-01
+! Barrier height between grain surface sites (cm)
+1.50E-08
+! Density of grain surface sites (cm-2)
+1.50E+15
+! Ratio of energy barrier between grain surface sites and molecular binding energy 
+3.00E-01
+! Number of chemically active monolayers 
+2.00E+00
+! Duty cycle of the grains for cosmic-ray-induced thermal desorption (no units)
+3.16E-19
+! Maximum temperature reached by dust grains for cosmic-ray-induced thermal desorption (K)
+7.00E+01
+! Branching ratio for reactive desorption
+1.00E-02

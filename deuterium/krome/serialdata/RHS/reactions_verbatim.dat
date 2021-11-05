@@ -1,0 +1,3466 @@
+H3+_PARA + H2_PARA -> H3+_PARA + H2_ORTHO
+H3+_PARA + H2_PARA -> H3+_ORTHO + H2_ORTHO
+H3+_PARA + H2_ORTHO -> H3+_PARA + H2_PARA
+H3+_PARA + H2_ORTHO -> H3+_ORTHO + H2_PARA
+H3+_PARA + H2_ORTHO -> H3+_ORTHO + H2_ORTHO
+H3+_ORTHO + H2_PARA -> H3+_PARA + H2_ORTHO
+H3+_ORTHO + H2_PARA -> H3+_ORTHO + H2_ORTHO
+H3+_ORTHO + H2_ORTHO -> H3+_PARA + H2_PARA
+H3+_ORTHO + H2_ORTHO -> H3+_PARA + H2_ORTHO
+H3+_ORTHO + H2_ORTHO -> H3+_ORTHO + H2_PARA
+H3+_PARA + HD -> H3+_ORTHO + HD
+H3+_PARA + HD -> H2D+_PARA + H2_PARA
+H3+_PARA + HD -> H2D+_PARA + H2_ORTHO
+H3+_PARA + HD -> H2D+_ORTHO + H2_PARA
+H3+_PARA + HD -> H2D+_ORTHO + H2_ORTHO
+H3+_ORTHO + HD -> H3+_PARA + HD
+H3+_ORTHO + HD -> H2D+_PARA + H2_ORTHO
+H3+_ORTHO + HD -> H2D+_ORTHO + H2_PARA
+H3+_ORTHO + HD -> H2D+_ORTHO + H2_ORTHO
+H2D+_PARA + H2_PARA -> H3+_PARA + HD
+H2D+_PARA + H2_PARA -> H2D+_ORTHO + H2_ORTHO
+H2D+_PARA + H2_ORTHO -> H3+_PARA + HD
+H2D+_PARA + H2_ORTHO -> H3+_ORTHO + HD
+H2D+_PARA + H2_ORTHO -> H2D+_ORTHO + H2_PARA
+H2D+_PARA + H2_ORTHO -> H2D+_ORTHO + H2_ORTHO
+H2D+_ORTHO + H2_PARA -> H3+_PARA + HD
+H2D+_ORTHO + H2_PARA -> H2D+_PARA + H2_ORTHO
+H2D+_ORTHO + H2_PARA -> H2D+_ORTHO + H2_ORTHO
+H2D+_ORTHO + H2_ORTHO -> H3+_PARA + HD
+H2D+_ORTHO + H2_ORTHO -> H3+_ORTHO + HD
+H2D+_ORTHO + H2_ORTHO -> H2D+_PARA + H2_PARA
+H2D+_ORTHO + H2_ORTHO -> H2D+_PARA + H2_ORTHO
+H2D+_ORTHO + H2_ORTHO -> H2D+_ORTHO + H2_PARA
+H3+_PARA + D2_PARA -> H2D+_PARA + HD
+H3+_PARA + D2_PARA -> H2D+_ORTHO + HD
+H3+_PARA + D2_PARA -> D2H+_PARA + H2_PARA
+H3+_PARA + D2_PARA -> D2H+_PARA + H2_ORTHO
+H3+_PARA + D2_ORTHO -> H2D+_PARA + HD
+H3+_PARA + D2_ORTHO -> H2D+_ORTHO + HD
+H3+_PARA + D2_ORTHO -> D2H+_ORTHO + H2_PARA
+H3+_PARA + D2_ORTHO -> D2H+_ORTHO + H2_ORTHO
+H3+_ORTHO + D2_PARA -> H2D+_ORTHO + HD
+H3+_ORTHO + D2_PARA -> D2H+_PARA + H2_ORTHO
+H3+_ORTHO + D2_ORTHO -> H2D+_ORTHO + HD
+H3+_ORTHO + D2_ORTHO -> D2H+_ORTHO + H2_ORTHO
+H2D+_PARA + HD -> H3+_PARA + D2_PARA
+H2D+_PARA + HD -> H3+_PARA + D2_ORTHO
+H2D+_PARA + HD -> H2D+_ORTHO + HD
+H2D+_PARA + HD -> D2H+_PARA + H2_PARA
+H2D+_PARA + HD -> D2H+_PARA + H2_ORTHO
+H2D+_PARA + HD -> D2H+_ORTHO + H2_PARA
+H2D+_PARA + HD -> D2H+_ORTHO + H2_ORTHO
+H2D+_ORTHO + HD -> H3+_PARA + D2_PARA
+H2D+_ORTHO + HD -> H3+_PARA + D2_ORTHO
+H2D+_ORTHO + HD -> H3+_ORTHO + D2_PARA
+H2D+_ORTHO + HD -> H3+_ORTHO + D2_ORTHO
+H2D+_ORTHO + HD -> H2D+_PARA + HD
+H2D+_ORTHO + HD -> D2H+_PARA + H2_PARA
+H2D+_ORTHO + HD -> D2H+_PARA + H2_ORTHO
+H2D+_ORTHO + HD -> D2H+_ORTHO + H2_PARA
+H2D+_ORTHO + HD -> D2H+_ORTHO + H2_ORTHO
+D2H+_PARA + H2_PARA -> H3+_PARA + D2_PARA
+D2H+_PARA + H2_PARA -> H2D+_PARA + HD
+D2H+_PARA + H2_PARA -> H2D+_ORTHO + HD
+D2H+_PARA + H2_PARA -> D2H+_PARA + H2_ORTHO
+D2H+_PARA + H2_ORTHO -> H3+_ORTHO + D2_PARA
+D2H+_PARA + H2_ORTHO -> H2D+_PARA + HD
+D2H+_PARA + H2_ORTHO -> H2D+_ORTHO + HD
+D2H+_PARA + H2_ORTHO -> D2H+_PARA + H2_PARA
+D2H+_ORTHO + H2_PARA -> H3+_PARA + D2_ORTHO
+D2H+_ORTHO + H2_PARA -> H2D+_PARA + HD
+D2H+_ORTHO + H2_PARA -> H2D+_ORTHO + HD
+D2H+_ORTHO + H2_PARA -> D2H+_ORTHO + H2_ORTHO
+D2H+_ORTHO + H2_ORTHO -> H3+_PARA + D2_ORTHO
+D2H+_ORTHO + H2_ORTHO -> H3+_ORTHO + D2_ORTHO
+D2H+_ORTHO + H2_ORTHO -> H2D+_PARA + HD
+D2H+_ORTHO + H2_ORTHO -> H2D+_ORTHO + HD
+D2H+_ORTHO + H2_ORTHO -> D2H+_ORTHO + H2_PARA
+H2D+_PARA + D2_PARA -> H2D+_PARA + D2_ORTHO
+H2D+_PARA + D2_PARA -> D2H+_PARA + HD
+H2D+_PARA + D2_PARA -> D2H+_ORTHO + HD
+H2D+_PARA + D2_PARA -> D3+_ORTHO + H2_PARA
+H2D+_PARA + D2_ORTHO -> H2D+_PARA + D2_PARA
+H2D+_PARA + D2_ORTHO -> D2H+_PARA + HD
+H2D+_PARA + D2_ORTHO -> D2H+_ORTHO + HD
+H2D+_PARA + D2_ORTHO -> D3+_META + H2_PARA
+H2D+_PARA + D2_ORTHO -> D3+_ORTHO + H2_PARA
+H2D+_ORTHO + D2_PARA -> H2D+_ORTHO + D2_ORTHO
+H2D+_ORTHO + D2_PARA -> D2H+_PARA + HD
+H2D+_ORTHO + D2_PARA -> D2H+_ORTHO + HD
+H2D+_ORTHO + D2_PARA -> D3+_ORTHO + H2_ORTHO
+H2D+_ORTHO + D2_ORTHO -> H2D+_ORTHO + D2_PARA
+H2D+_ORTHO + D2_ORTHO -> D2H+_PARA + HD
+H2D+_ORTHO + D2_ORTHO -> D2H+_ORTHO + HD
+H2D+_ORTHO + D2_ORTHO -> D3+_META + H2_ORTHO
+H2D+_ORTHO + D2_ORTHO -> D3+_ORTHO + H2_ORTHO
+D2H+_PARA + HD -> H2D+_PARA + D2_PARA
+D2H+_PARA + HD -> H2D+_PARA + D2_ORTHO
+D2H+_PARA + HD -> H2D+_ORTHO + D2_PARA
+D2H+_PARA + HD -> H2D+_ORTHO + D2_ORTHO
+D2H+_PARA + HD -> D2H+_ORTHO + HD
+D2H+_PARA + HD -> D3+_ORTHO + H2_PARA
+D2H+_PARA + HD -> D3+_ORTHO + H2_ORTHO
+D2H+_ORTHO + HD -> H2D+_PARA + D2_PARA
+D2H+_ORTHO + HD -> H2D+_PARA + D2_ORTHO
+D2H+_ORTHO + HD -> H2D+_ORTHO + D2_PARA
+D2H+_ORTHO + HD -> H2D+_ORTHO + D2_ORTHO
+D2H+_ORTHO + HD -> D2H+_PARA + HD
+D2H+_ORTHO + HD -> D3+_META + H2_PARA
+D2H+_ORTHO + HD -> D3+_META + H2_ORTHO
+D2H+_ORTHO + HD -> D3+_ORTHO + H2_PARA
+D2H+_ORTHO + HD -> D3+_ORTHO + H2_ORTHO
+D3+_META + H2_PARA -> H2D+_PARA + D2_ORTHO
+D3+_META + H2_PARA -> D2H+_ORTHO + HD
+D3+_META + H2_ORTHO -> H2D+_ORTHO + D2_ORTHO
+D3+_META + H2_ORTHO -> D2H+_ORTHO + HD
+D3+_ORTHO + H2_PARA -> H2D+_PARA + D2_PARA
+D3+_ORTHO + H2_PARA -> H2D+_PARA + D2_ORTHO
+D3+_ORTHO + H2_PARA -> D2H+_PARA + HD
+D3+_ORTHO + H2_PARA -> D2H+_ORTHO + HD
+D3+_ORTHO + H2_ORTHO -> H2D+_ORTHO + D2_PARA
+D3+_ORTHO + H2_ORTHO -> H2D+_ORTHO + D2_ORTHO
+D3+_ORTHO + H2_ORTHO -> D2H+_PARA + HD
+D3+_ORTHO + H2_ORTHO -> D2H+_ORTHO + HD
+D2H+_PARA + D2_PARA -> D2H+_PARA + D2_ORTHO
+D2H+_PARA + D2_PARA -> D2H+_ORTHO + D2_PARA
+D2H+_PARA + D2_PARA -> D2H+_ORTHO + D2_ORTHO
+D2H+_PARA + D2_PARA -> D3+_ORTHO + HD
+D2H+_PARA + D2_ORTHO -> D2H+_PARA + D2_PARA
+D2H+_PARA + D2_ORTHO -> D2H+_ORTHO + D2_PARA
+D2H+_PARA + D2_ORTHO -> D2H+_ORTHO + D2_ORTHO
+D2H+_PARA + D2_ORTHO -> D3+_META + HD
+D2H+_PARA + D2_ORTHO -> D3+_ORTHO + HD
+D2H+_ORTHO + D2_PARA -> D2H+_PARA + D2_PARA
+D2H+_ORTHO + D2_PARA -> D2H+_PARA + D2_ORTHO
+D2H+_ORTHO + D2_PARA -> D2H+_ORTHO + D2_ORTHO
+D2H+_ORTHO + D2_PARA -> D3+_META + HD
+D2H+_ORTHO + D2_PARA -> D3+_ORTHO + HD
+D2H+_ORTHO + D2_ORTHO -> D2H+_PARA + D2_PARA
+D2H+_ORTHO + D2_ORTHO -> D2H+_PARA + D2_ORTHO
+D2H+_ORTHO + D2_ORTHO -> D2H+_ORTHO + D2_PARA
+D2H+_ORTHO + D2_ORTHO -> D3+_META + HD
+D2H+_ORTHO + D2_ORTHO -> D3+_ORTHO + HD
+D3+_META + HD -> D2H+_PARA + D2_ORTHO
+D3+_META + HD -> D2H+_ORTHO + D2_PARA
+D3+_META + HD -> D2H+_ORTHO + D2_ORTHO
+D3+_META + HD -> D3+_ORTHO + HD
+D3+_ORTHO + HD -> D2H+_PARA + D2_PARA
+D3+_ORTHO + HD -> D2H+_PARA + D2_ORTHO
+D3+_ORTHO + HD -> D2H+_ORTHO + D2_PARA
+D3+_ORTHO + HD -> D2H+_ORTHO + D2_ORTHO
+D3+_ORTHO + HD -> D3+_META + HD
+D3+_META + D2_PARA -> D3+_META + D2_ORTHO
+D3+_META + D2_PARA -> D3+_ORTHO + D2_PARA
+D3+_META + D2_PARA -> D3+_ORTHO + D2_ORTHO
+D3+_META + D2_ORTHO -> D3+_META + D2_PARA
+D3+_META + D2_ORTHO -> D3+_ORTHO + D2_PARA
+D3+_META + D2_ORTHO -> D3+_ORTHO + D2_ORTHO
+D3+_ORTHO + D2_PARA -> D3+_META + D2_PARA
+D3+_ORTHO + D2_PARA -> D3+_META + D2_ORTHO
+D3+_ORTHO + D2_PARA -> D3+_ORTHO + D2_ORTHO
+D3+_ORTHO + D2_ORTHO -> D3+_META + D2_PARA
+D3+_ORTHO + D2_ORTHO -> D3+_META + D2_ORTHO
+D3+_ORTHO + D2_ORTHO -> D3+_ORTHO + D2_PARA
+H + H -> H2_PARA
+H + H -> H2_ORTHO
+H + D -> HD
+D + D -> D2_PARA
+D + D -> D2_ORTHO
+GRAIN0 + E -> GRAIN-
+H+ + GRAIN- -> H + GRAIN0
+HD+ + GRAIN- -> H + D + GRAIN0
+HD+ + GRAIN- -> HD + GRAIN0
+D2+_ORTHO + GRAIN- -> D + D + GRAIN0
+D2+_ORTHO + GRAIN- -> D2_ORTHO + GRAIN0
+D2+_PARA + GRAIN- -> D + D + GRAIN0
+D2+_PARA + GRAIN- -> D2_PARA + GRAIN0
+HE+ + GRAIN- -> HE + GRAIN0
+H3+_PARA + GRAIN- -> H2_PARA + H + GRAIN0
+H3+_PARA + GRAIN- -> H2_ORTHO + H + GRAIN0
+H3+_PARA + GRAIN- -> H + H + H + GRAIN0
+H3+_ORTHO + GRAIN- -> H2_ORTHO + H + GRAIN0
+H3+_ORTHO + GRAIN- -> H + H + H + GRAIN0
+H2D+_PARA + GRAIN- -> H2_PARA + D + GRAIN0
+H2D+_PARA + GRAIN- -> HD + H + GRAIN0
+H2D+_PARA + GRAIN- -> H + D + H + GRAIN0
+H2D+_ORTHO + GRAIN- -> H + D + H + GRAIN0
+H2D+_ORTHO + GRAIN- -> H2_ORTHO + D + GRAIN0
+H2D+_ORTHO + GRAIN- -> HD + H + GRAIN0
+D2H+_ORTHO + GRAIN- -> D + H + D + GRAIN0
+D2H+_ORTHO + GRAIN- -> D2_ORTHO + H + GRAIN0
+D2H+_ORTHO + GRAIN- -> HD + D + GRAIN0
+D2H+_PARA + GRAIN- -> D2_PARA + H + GRAIN0
+D2H+_PARA + GRAIN- -> HD + D + GRAIN0
+D2H+_PARA + GRAIN- -> D + H + D + GRAIN0
+D3+_META + GRAIN- -> D + D + D + GRAIN0
+D3+_META + GRAIN- -> D2_ORTHO + D + GRAIN0
+D3+_ORTHO + GRAIN- -> D + D + D + GRAIN0
+D3+_ORTHO + GRAIN- -> D2_ORTHO + D + GRAIN0
+D3+_ORTHO + GRAIN- -> D2_PARA + D + GRAIN0
+HCO+ + GRAIN- -> H + CO + GRAIN0
+DCO+ + GRAIN- -> D + CO + GRAIN0
+C -> C+ + E
+H -> H+ + E
+D -> D+ + E
+HE -> HE+ + E
+N -> N+ + E
+O -> O+ + E
+H2_PARA -> H + H
+H2_ORTHO -> H + H
+D2_PARA -> D + D
+D2_ORTHO -> D + D
+HD -> H + D
+H2_PARA -> H + H+ + E
+H2_ORTHO -> H + H+ + E
+D2_PARA -> D + D+ + E
+D2_ORTHO -> D + D+ + E
+HD -> H + D+ + E
+HD -> D + H+ + E
+H2_PARA -> H+ + H-
+H2_ORTHO -> H+ + H-
+D2_PARA -> D+ + D-
+D2_ORTHO -> D+ + D-
+HD -> H+ + D-
+HD -> D+ + H-
+H2_PARA -> H2+_PARA + E
+H2_ORTHO -> H2+_ORTHO + E
+D2_PARA -> D2+_PARA + E
+D2_ORTHO -> D2+_ORTHO + E
+HD -> HD+ + E
+CH+ -> C + H+
+CD+ -> C + D+
+CH+ -> H + C+
+CD+ -> D + C+
+N2 -> N + N
+NH -> H + N
+ND -> D + N
+NO -> N + O
+NO -> NO+ + E
+O2 -> O + O
+O2 -> O2+ + E
+OH -> H + O
+OD -> D + O
+C2H -> H + C2
+C2D -> D + C2
+C2N -> C + CN
+C3 -> C + C2
+CCO -> O + C2
+CCO -> C + CO
+CH2 -> CH2+ + E
+CD2 -> CD2+ + E
+CHD -> CHD+ + E
+CO2 -> O + CO
+H2O -> H + OH
+D2O -> D + OD
+HDO -> H + OD
+HDO -> D + OH
+HCN -> H + CN
+DCN -> D + CN
+HCO -> H + CO
+DCO -> D + CO
+HCO -> HCO+ + E
+DCO -> DCO+ + E
+HNC -> H + CN
+DNC -> D + CN
+HNO -> HNO+ + E
+DNO -> DNO+ + E
+N2O -> N + NO
+NH2 -> H + NH
+ND2 -> D + ND
+NHD -> H + ND
+NHD -> D + NH
+NH2 -> NH2+ + E
+ND2 -> ND2+ + E
+NHD -> NHD+ + E
+NO2 -> O + NO
+O2H -> O + OH
+O2D -> O + OD
+O2H -> H + O2
+O2D -> D + O2
+OCN -> O + CN
+C2 -> C + C
+CH -> C + H
+CD -> C + D
+CN -> C + N
+CO -> C + O
+CO -> CO+ + E
+C2+ -> C + C+
+CH+ -> H + C+
+CD+ -> D + C+
+H2+_PARA -> H + H+
+H2+_ORTHO -> H + H+
+D2+_PARA -> D + D+
+D2+_ORTHO -> D + D+
+HD+ -> H + D+
+HD+ -> D + H+
+OH+ -> O + H+
+OD+ -> O + D+
+C2H+ -> H + C2+
+C2D+ -> D + C2+
+CH2+ -> H + CH+
+CD2+ -> D + CD+
+CHD+ -> H + CD+
+CHD+ -> D + CH+
+H3+_ORTHO -> H2_PARA + H+
+H3+_ORTHO -> H2_ORTHO + H+
+H3+_PARA -> H2_PARA + H+
+H3+_PARA -> H2_ORTHO + H+
+D3+_ORTHO -> D2_PARA + D+
+D3+_ORTHO -> D2_ORTHO + D+
+D3+_META -> D2_PARA + D+
+D3+_META -> D2_ORTHO + D+
+H2D+_ORTHO -> H2_PARA + D+
+H2D+_ORTHO -> H2_ORTHO + D+
+H2D+_PARA -> H2_PARA + D+
+H2D+_PARA -> H2_ORTHO + D+
+H2D+_ORTHO -> HD + H+
+H2D+_PARA -> HD + H+
+D2H+_ORTHO -> D2_PARA + H+
+D2H+_ORTHO -> D2_ORTHO + H+
+D2H+_PARA -> D2_PARA + H+
+D2H+_PARA -> D2_ORTHO + H+
+D2H+_ORTHO -> HD + D+
+D2H+_PARA -> HD + D+
+H3+_ORTHO -> H + H2+_PARA
+H3+_ORTHO -> H + H2+_ORTHO
+H3+_PARA -> H + H2+_PARA
+H3+_PARA -> H + H2+_ORTHO
+D3+_ORTHO -> D + D2+_PARA
+D3+_ORTHO -> D + D2+_ORTHO
+D3+_META -> D + D2+_PARA
+D3+_META -> D + D2+_ORTHO
+H2D+_ORTHO -> H + HD+
+H2D+_PARA -> H + HD+
+H2D+_ORTHO -> D + H2+_PARA
+H2D+_ORTHO -> D + H2+_ORTHO
+H2D+_PARA -> D + H2+_PARA
+H2D+_PARA -> D + H2+_ORTHO
+D2H+_ORTHO -> H + D2+_PARA
+D2H+_ORTHO -> H + D2+_ORTHO
+D2H+_PARA -> H + D2+_PARA
+D2H+_PARA -> H + D2+_ORTHO
+D2H+_ORTHO -> D + HD+
+D2H+_PARA -> D + HD+
+C- -> C + E
+H- -> H + E
+D- -> D + E
+O- -> O + E
+CN- -> CN + E
+OH- -> OH + E
+OD- -> OD + E
+C -> C+ + E
+C2 -> C + C
+C2 -> C2+ + E
+CH -> C + H
+CD -> C + D
+CH -> CH+ + E
+CD -> CD+ + E
+CN -> C + N
+CO -> C + O
+H2_PARA -> H + H
+H2_ORTHO -> H + H
+D2_PARA -> D + D
+D2_ORTHO -> D + D
+HD -> H + D
+N2 -> N + N
+NH -> H + N
+ND -> D + N
+NH -> NH+ + E
+ND -> ND+ + E
+NO -> N + O
+NO -> NO+ + E
+O2 -> O + O
+O2 -> O2+ + E
+OH -> H + O
+OD -> D + O
+OH -> OH+ + E
+OD -> OD+ + E
+C2H -> H + C2
+C2D -> D + C2
+C2H -> C2H+ + E
+C2D -> C2D+ + E
+C2N -> N + C2
+C2N -> C + CN
+C3 -> C + C2
+CH2 -> H + CH
+CD2 -> D + CD
+CHD -> H + CD
+CHD -> D + CH
+CH2 -> CH2+ + E
+CD2 -> CD2+ + E
+CHD -> CHD+ + E
+CO2 -> O + CO
+H2O -> H + OH
+D2O -> D + OD
+HDO -> H + OD
+HDO -> D + OH
+H2O -> H2O+ + E
+D2O -> D2O+ + E
+HDO -> HDO+ + E
+HCN -> H + CN
+DCN -> D + CN
+HCO -> H + CO
+DCO -> D + CO
+HCO -> HCO+ + E
+DCO -> DCO+ + E
+HNC -> H + CN
+DNC -> D + CN
+HNO -> H + NO
+DNO -> D + NO
+NH2 -> H + NH
+ND2 -> D + ND
+NHD -> H + ND
+NHD -> D + NH
+NH2 -> NH2+ + E
+ND2 -> ND2+ + E
+NHD -> NHD+ + E
+NO2 -> O + NO
+OCN -> O + CN
+CH + C+ -> H + C2+
+CD + C+ -> D + C2+
+NH + C+ -> H + CN+
+ND + C+ -> D + CN+
+O2 + C+ -> CO + O+
+O2 + C+ -> O + CO+
+OH + C+ -> H + CO+
+OD + C+ -> D + CO+
+C2H + C+ -> H + C3+
+C2D + C+ -> D + C3+
+CCO + C+ -> C + C2O+
+CH2 + C+ -> H + C2H+
+CD2 + C+ -> D + C2D+
+CHD + C+ -> H + C2D+
+CHD + C+ -> D + C2H+
+CO2 + C+ -> CO + CO+
+H2O + C+ -> H + HCO+
+D2O + C+ -> D + DCO+
+HDO + C+ -> H + DCO+
+HDO + C+ -> D + HCO+
+H2O + C+ -> H + HOC+
+D2O + C+ -> D + DOC+
+HDO + C+ -> H + DOC+
+HDO + C+ -> D + HOC+
+HCN + C+ -> H + C2N+
+DCN + C+ -> D + C2N+
+HCN + C+ -> H + CNC+
+DCN + C+ -> D + CNC+
+HCO + C+ -> CO + CH+
+DCO + C+ -> CO + CD+
+HNC + C+ -> H + C2N+
+DNC + C+ -> D + C2N+
+NH2 + C+ -> H + HCN+
+ND2 + C+ -> D + DCN+
+NHD + C+ -> H + DCN+
+NHD + C+ -> D + HCN+
+OCN + C+ -> CN + CO+
+H2_PARA + CO+ -> H + HOC+
+H2_ORTHO + CO+ -> H + HOC+
+D2_PARA + CO+ -> D + DOC+
+D2_ORTHO + CO+ -> D + DOC+
+HD + CO+ -> H + DOC+
+HD + CO+ -> D + HOC+
+H2_PARA + CO+ -> H + HCO+
+H2_ORTHO + CO+ -> H + HCO+
+D2_PARA + CO+ -> D + DCO+
+D2_ORTHO + CO+ -> D + DCO+
+HD + CO+ -> H + DCO+
+HD + CO+ -> D + HCO+
+H2_PARA + CN+ -> H + HNC+
+H2_ORTHO + CN+ -> H + HNC+
+D2_PARA + CN+ -> D + DNC+
+D2_ORTHO + CN+ -> D + DNC+
+HD + CN+ -> H + DNC+
+HD + CN+ -> D + HNC+
+H2_PARA + CN+ -> H + HCN+
+H2_ORTHO + CN+ -> H + HCN+
+D2_PARA + CN+ -> D + DCN+
+D2_ORTHO + CN+ -> D + DCN+
+HD + CN+ -> H + DCN+
+HD + CN+ -> D + HCN+
+NO + C- -> O + CN-
+O2 + C- -> CO + O-
+CO2 + C- -> CO + CO + E
+H2O + H- -> H2_PARA + OH-
+H2O + D- -> H2_PARA + OD-
+H2O + D- -> HD + OH-
+D2O + H- -> D2_PARA + OH-
+D2O + H- -> HD + OD-
+D2O + D- -> D2_PARA + OD-
+HDO + H- -> H2_PARA + OD-
+HDO + H- -> HD + OH-
+HDO + D- -> D2_PARA + OH-
+HDO + D- -> HD + OD-
+HCN + H- -> H2_PARA + CN-
+HCN + D- -> HD + CN-
+DCN + H- -> HD + CN-
+DCN + D- -> D2_PARA + CN-
+H2_PARA + O- -> H + OH-
+H2_ORTHO + O- -> H + OH-
+D2_PARA + O- -> D + OD-
+D2_ORTHO + O- -> D + OD-
+HD + O- -> H + OD-
+HD + O- -> D + OH-
+HCN + O- -> OH + CN-
+DCN + O- -> OD + CN-
+HCN + OH- -> H2O + CN-
+HCN + OD- -> HDO + CN-
+DCN + OH- -> HDO + CN-
+DCN + OD- -> D2O + CN-
+O + CH2 -> H + H + CO
+O + CD2 -> D + D + CO
+O + CHD -> H + D + CO
+O + CH2 -> CO + H2_PARA
+O + CD2 -> CO + D2_PARA
+O + CHD -> CO + HD
+O + HCO -> H + CO2
+O + DCO -> D + CO2
+O + HCO -> CO + OH
+O + DCO -> CO + OD
+O + HCN -> H + OCN
+O + DCN -> D + OCN
+O + HNO -> NO + OH
+O + DNO -> NO + OD
+O + NH2 -> NH + OH
+O + ND2 -> ND + OD
+O + NHD -> NH + OD
+O + NHD -> ND + OH
+O + NH2 -> H + HNO
+O + ND2 -> D + DNO
+O + NHD -> H + DNO
+O + NHD -> D + HNO
+O + NO2 -> NO + O2
+O + O2H -> O2 + OH
+O + O2D -> O2 + OD
+O + OCN -> CO + NO
+O + OCN -> CN + O2
+O + C3 -> C2 + CO
+CH + NO -> O + HCN
+CD + NO -> O + DCN
+CH + O2 -> CO + OH
+CD + O2 -> CO + OD
+CH + HNO -> NO + CH2
+CH + DNO -> NO + CHD
+CD + HNO -> NO + CHD
+CD + DNO -> NO + CD2
+C2 + CH -> H + C3
+C2 + CD -> D + C3
+CN + NO -> CO + N2
+CN + O2 -> O + OCN
+CN + HCO -> CO + HCN
+CN + DCO -> CO + DCN
+CN + OH -> H + OCN
+CN + OD -> D + OCN
+CN + OH -> O + HCN
+CN + OD -> O + DCN
+CN + HNO -> NO + HCN
+CN + DNO -> NO + DCN
+CO + OH -> H + CO2
+CO + OD -> D + CO2
+CO + HNO -> NH + CO2
+CO + DNO -> ND + CO2
+NH + NH -> H + H + N2
+NH + ND -> H + D + N2
+ND + ND -> D + D + N2
+NH + NO -> H + N2O
+ND + NO -> D + N2O
+NO + NH2 -> N2 + H2O
+NO + ND2 -> N2 + D2O
+NO + NHD -> N2 + HDO
+OH + OH -> O + H2O
+OH + OD -> O + HDO
+OD + OD -> O + D2O
+OH + HCO -> CO + H2O
+OH + DCO -> CO + HDO
+OD + HCO -> CO + HDO
+OD + DCO -> CO + D2O
+OH + HNO -> NO + H2O
+OH + DNO -> NO + HDO
+OD + HNO -> NO + HDO
+OD + DNO -> NO + D2O
+OH + NH2 -> NH + H2O
+OH + ND2 -> NH + D2O
+OH + ND2 -> ND + HDO
+OH + NHD -> NH + HDO
+OH + NHD -> ND + H2O
+OD + NH2 -> NH + HDO
+OD + NH2 -> ND + H2O
+OD + ND2 -> ND + D2O
+OD + NHD -> NH + D2O
+OD + NHD -> ND + HDO
+OH + O2H -> O2 + H2O
+OH + O2D -> O2 + HDO
+OD + O2H -> O2 + HDO
+OD + O2D -> O2 + D2O
+NO + CN+ -> N + NCO+
+O2 + CN+ -> CO + NO+
+O2 + CN+ -> O + NCO+
+CO2 + CN+ -> NO + C2O+
+CO2 + CN+ -> CO + NCO+
+H2O + CN+ -> OH + HCN+
+D2O + CN+ -> OD + DCN+
+HDO + CN+ -> OH + DCN+
+HDO + CN+ -> OD + HCN+
+H2O + CN+ -> NH + HCO+
+D2O + CN+ -> ND + DCO+
+HDO + CN+ -> NH + DCO+
+HDO + CN+ -> ND + HCO+
+HCO + CN+ -> CO + HCN+
+DCO + CN+ -> CO + DCN+
+N + CO+ -> C + NO+
+CH + CO+ -> C + HCO+
+CD + CO+ -> C + DCO+
+NH + CO+ -> N + HCO+
+ND + CO+ -> N + DCO+
+OH + CO+ -> O + HCO+
+OD + CO+ -> O + DCO+
+C2H + CO+ -> C2 + HCO+
+C2D + CO+ -> C2 + DCO+
+CH2 + CO+ -> CH + HCO+
+CD2 + CO+ -> CD + DCO+
+CHD + CO+ -> CH + DCO+
+CHD + CO+ -> CD + HCO+
+H2O + CO+ -> OH + HCO+
+D2O + CO+ -> OD + DCO+
+HDO + CO+ -> OH + DCO+
+HDO + CO+ -> OD + HCO+
+NH2 + CO+ -> NH + HCO+
+ND2 + CO+ -> ND + DCO+
+NHD + CO+ -> NH + DCO+
+NHD + CO+ -> ND + HCO+
+C + H2+_PARA -> H + CH+
+C + H2+_ORTHO -> H + CH+
+C + D2+_PARA -> D + CD+
+C + D2+_ORTHO -> D + CD+
+C + HD+ -> H + CD+
+C + HD+ -> D + CH+
+N + H2+_PARA -> H + NH+
+N + H2+_ORTHO -> H + NH+
+N + D2+_PARA -> D + ND+
+N + D2+_ORTHO -> D + ND+
+N + HD+ -> H + ND+
+N + HD+ -> D + NH+
+O + H2+_PARA -> H + OH+
+O + H2+_ORTHO -> H + OH+
+O + D2+_PARA -> D + OD+
+O + D2+_ORTHO -> D + OD+
+O + HD+ -> H + OD+
+O + HD+ -> D + OH+
+C2 + H2+_PARA -> H + C2H+
+C2 + H2+_ORTHO -> H + C2H+
+C2 + D2+_PARA -> D + C2D+
+C2 + D2+_ORTHO -> D + C2D+
+C2 + HD+ -> H + C2D+
+C2 + HD+ -> D + C2H+
+CH + H2+_PARA -> H + CH2+
+CH + H2+_ORTHO -> H + CH2+
+CH + D2+_PARA -> H + CD2+
+CH + D2+_ORTHO -> H + CD2+
+CH + D2+_PARA -> D + CHD+
+CH + D2+_ORTHO -> D + CHD+
+CH + HD+ -> H + CHD+
+CH + HD+ -> D + CH2+
+CD + H2+_PARA -> H + CHD+
+CD + H2+_ORTHO -> H + CHD+
+CD + H2+_PARA -> D + CH2+
+CD + H2+_ORTHO -> D + CH2+
+CD + D2+_PARA -> D + CD2+
+CD + D2+_ORTHO -> D + CD2+
+CD + HD+ -> H + CD2+
+CD + HD+ -> D + CHD+
+CN + H2+_PARA -> H + HCN+
+CN + H2+_ORTHO -> H + HCN+
+CN + D2+_PARA -> D + DCN+
+CN + D2+_ORTHO -> D + DCN+
+CN + HD+ -> H + DCN+
+CN + HD+ -> D + HCN+
+CO + H2+_PARA -> H + HCO+
+CO + H2+_ORTHO -> H + HCO+
+CO + D2+_PARA -> D + DCO+
+CO + D2+_ORTHO -> D + DCO+
+CO + HD+ -> H + DCO+
+CO + HD+ -> D + HCO+
+H2_PARA + H2+_ORTHO -> H + H3+_ORTHO
+H2_ORTHO + H2+_PARA -> H + H3+_ORTHO
+H2_ORTHO + H2+_ORTHO -> H + H3+_ORTHO
+H2_PARA + D2+_PARA -> H + D2H+_PARA
+H2_PARA + D2+_ORTHO -> H + D2H+_ORTHO
+H2_ORTHO + D2+_PARA -> H + D2H+_PARA
+H2_ORTHO + D2+_ORTHO -> H + D2H+_ORTHO
+H2_PARA + D2+_PARA -> D + H2D+_PARA
+H2_PARA + D2+_ORTHO -> D + H2D+_PARA
+H2_ORTHO + D2+_PARA -> D + H2D+_ORTHO
+H2_ORTHO + D2+_ORTHO -> D + H2D+_ORTHO
+H2_PARA + HD+ -> H + H2D+_ORTHO
+H2_PARA + HD+ -> H + H2D+_PARA
+H2_ORTHO + HD+ -> H + H2D+_ORTHO
+H2_ORTHO + HD+ -> H + H2D+_PARA
+H2_PARA + HD+ -> D + H3+_ORTHO
+H2_ORTHO + HD+ -> D + H3+_ORTHO
+D2_PARA + H2+_PARA -> H + D2H+_PARA
+D2_PARA + H2+_ORTHO -> H + D2H+_ORTHO
+D2_PARA + H2+_ORTHO -> H + D2H+_PARA
+D2_ORTHO + H2+_PARA -> H + D2H+_ORTHO
+D2_ORTHO + H2+_PARA -> H + D2H+_PARA
+D2_ORTHO + H2+_ORTHO -> H + D2H+_ORTHO
+D2_ORTHO + H2+_ORTHO -> H + D2H+_PARA
+D2_PARA + H2+_PARA -> D + H2D+_PARA
+D2_PARA + H2+_ORTHO -> D + H2D+_ORTHO
+D2_ORTHO + H2+_PARA -> D + H2D+_PARA
+D2_ORTHO + H2+_ORTHO -> D + H2D+_ORTHO
+D2_PARA + D2+_PARA -> D + D3+_ORTHO
+D2_PARA + D2+_PARA -> D + D3+_META
+D2_PARA + D2+_ORTHO -> D + D3+_ORTHO
+D2_PARA + D2+_ORTHO -> D + D3+_META
+D2_ORTHO + D2+_PARA -> D + D3+_ORTHO
+D2_ORTHO + D2+_PARA -> D + D3+_META
+D2_ORTHO + D2+_ORTHO -> D + D3+_ORTHO
+D2_ORTHO + D2+_ORTHO -> D + D3+_META
+D2_PARA + HD+ -> H + D3+_ORTHO
+D2_PARA + HD+ -> H + D3+_META
+D2_ORTHO + HD+ -> H + D3+_ORTHO
+D2_ORTHO + HD+ -> H + D3+_META
+D2_PARA + HD+ -> D + D2H+_ORTHO
+D2_PARA + HD+ -> D + D2H+_PARA
+D2_ORTHO + HD+ -> D + D2H+_ORTHO
+D2_ORTHO + HD+ -> D + D2H+_PARA
+HD + H2+_PARA -> H + H2D+_ORTHO
+HD + H2+_PARA -> H + H2D+_PARA
+HD + H2+_ORTHO -> H + H2D+_ORTHO
+HD + H2+_ORTHO -> H + H2D+_PARA
+HD + H2+_ORTHO -> D + H3+_ORTHO
+HD + D2+_PARA -> H + D3+_ORTHO
+HD + D2+_ORTHO -> H + D3+_ORTHO
+HD + D2+_ORTHO -> H + D3+_META
+HD + D2+_PARA -> D + D2H+_PARA
+HD + D2+_ORTHO -> D + D2H+_ORTHO
+HD + HD+ -> H + D2H+_ORTHO
+HD + HD+ -> H + D2H+_PARA
+HD + HD+ -> D + H2D+_ORTHO
+HD + HD+ -> D + H2D+_PARA
+N2 + H2+_PARA -> H + N2H+
+N2 + H2+_ORTHO -> H + N2H+
+N2 + D2+_PARA -> D + N2D+
+N2 + D2+_ORTHO -> D + N2D+
+N2 + HD+ -> H + N2D+
+N2 + HD+ -> D + N2H+
+NH + H2+_PARA -> H + NH2+
+NH + H2+_ORTHO -> H + NH2+
+NH + D2+_PARA -> H + ND2+
+NH + D2+_ORTHO -> H + ND2+
+NH + D2+_PARA -> D + NHD+
+NH + D2+_ORTHO -> D + NHD+
+NH + HD+ -> H + NHD+
+NH + HD+ -> D + NH2+
+ND + H2+_PARA -> H + NHD+
+ND + H2+_ORTHO -> H + NHD+
+ND + H2+_PARA -> D + NH2+
+ND + H2+_ORTHO -> D + NH2+
+ND + D2+_PARA -> D + ND2+
+ND + D2+_ORTHO -> D + ND2+
+ND + HD+ -> H + ND2+
+ND + HD+ -> D + NHD+
+NO + H2+_PARA -> H + HNO+
+NO + H2+_ORTHO -> H + HNO+
+NO + D2+_PARA -> D + DNO+
+NO + D2+_ORTHO -> D + DNO+
+NO + HD+ -> H + DNO+
+NO + HD+ -> D + HNO+
+O2 + H2+_PARA -> H + O2H+
+O2 + H2+_ORTHO -> H + O2H+
+O2 + D2+_PARA -> D + O2D+
+O2 + D2+_ORTHO -> D + O2D+
+O2 + HD+ -> H + O2D+
+O2 + HD+ -> D + O2H+
+OH + H2+_PARA -> H + H2O+
+OH + H2+_ORTHO -> H + H2O+
+OH + D2+_PARA -> H + D2O+
+OH + D2+_ORTHO -> H + D2O+
+OH + D2+_PARA -> D + HDO+
+OH + D2+_ORTHO -> D + HDO+
+OH + HD+ -> H + HDO+
+OH + HD+ -> D + H2O+
+OD + H2+_PARA -> H + HDO+
+OD + H2+_ORTHO -> H + HDO+
+OD + H2+_PARA -> D + H2O+
+OD + H2+_ORTHO -> D + H2O+
+OD + D2+_PARA -> D + D2O+
+OD + D2+_ORTHO -> D + D2O+
+OD + HD+ -> H + D2O+
+OD + HD+ -> D + HDO+
+CO2 + H2+_PARA -> H2O + CO+
+CO2 + H2+_ORTHO -> H2O + CO+
+CO2 + D2+_PARA -> D2O + CO+
+CO2 + D2+_ORTHO -> D2O + CO+
+CO2 + HD+ -> HDO + CO+
+HCO + H2+_ORTHO -> CO + H3+_ORTHO
+HCO + D2+_PARA -> CO + D2H+_PARA
+HCO + D2+_ORTHO -> CO + D2H+_ORTHO
+HCO + D2+_ORTHO -> CO + D2H+_PARA
+HCO + HD+ -> CO + H2D+_ORTHO
+HCO + HD+ -> CO + H2D+_PARA
+DCO + H2+_PARA -> CO + H2D+_PARA
+DCO + H2+_ORTHO -> CO + H2D+_ORTHO
+DCO + H2+_ORTHO -> CO + H2D+_PARA
+DCO + D2+_PARA -> CO + D3+_META
+DCO + D2+_ORTHO -> CO + D3+_ORTHO
+DCO + D2+_ORTHO -> CO + D3+_META
+DCO + HD+ -> CO + D2H+_ORTHO
+DCO + HD+ -> CO + D2H+_PARA
+H + HEH+ -> HE + H2+_PARA
+H + HED+ -> HE + HD+
+D + HEH+ -> HE + HD+
+D + HED+ -> HE + D2+_PARA
+H2_ORTHO + HEH+ -> HE + H3+_ORTHO
+H2_PARA + HED+ -> HE + H2D+_PARA
+H2_ORTHO + HED+ -> HE + H2D+_ORTHO
+H2_ORTHO + HED+ -> HE + H2D+_PARA
+D2_PARA + HEH+ -> HE + D2H+_PARA
+D2_ORTHO + HEH+ -> HE + D2H+_ORTHO
+D2_ORTHO + HEH+ -> HE + D2H+_PARA
+D2_PARA + HED+ -> HE + D3+_META
+D2_ORTHO + HED+ -> HE + D3+_ORTHO
+D2_ORTHO + HED+ -> HE + D3+_META
+HD + HEH+ -> HE + H2D+_ORTHO
+HD + HEH+ -> HE + H2D+_PARA
+HD + HED+ -> HE + D2H+_ORTHO
+HD + HED+ -> HE + D2H+_PARA
+H3+_ORTHO + H- -> H2_PARA + H2_ORTHO
+H3+_PARA + H- -> H2_PARA + H2_PARA
+H3+_PARA + H- -> H2_PARA + H2_ORTHO
+H3+_ORTHO + D- -> H2_PARA + HD
+H3+_ORTHO + D- -> H2_ORTHO + HD
+H3+_PARA + D- -> H2_PARA + HD
+H3+_PARA + D- -> H2_ORTHO + HD
+D3+_ORTHO + D- -> D2_PARA + D2_ORTHO
+D3+_META + D- -> D2_PARA + D2_PARA
+H2D+_ORTHO + H- -> H2_PARA + HD
+H2D+_ORTHO + H- -> H2_ORTHO + HD
+H2D+_PARA + H- -> H2_PARA + HD
+H2D+_PARA + H- -> H2_ORTHO + HD
+H2D+_ORTHO + D- -> H2_PARA + D2_ORTHO
+H2D+_ORTHO + D- -> H2_ORTHO + D2_PARA
+H2D+_PARA + D- -> H2_PARA + D2_PARA
+H2D+_PARA + D- -> H2_PARA + D2_ORTHO
+H2D+_PARA + D- -> H2_ORTHO + D2_PARA
+H2D+_ORTHO + D- -> HD + HD
+H2D+_PARA + D- -> HD + HD
+D2H+_ORTHO + H- -> H2_PARA + D2_ORTHO
+D2H+_ORTHO + H- -> H2_ORTHO + D2_PARA
+D2H+_PARA + H- -> H2_PARA + D2_PARA
+D2H+_PARA + H- -> H2_PARA + D2_ORTHO
+D2H+_PARA + H- -> H2_ORTHO + D2_PARA
+D2H+_ORTHO + H- -> HD + HD
+D2H+_PARA + H- -> HD + HD
+D2H+_ORTHO + D- -> D2_PARA + HD
+D2H+_ORTHO + D- -> D2_ORTHO + HD
+D2H+_PARA + D- -> D2_PARA + HD
+D2H+_PARA + D- -> D2_ORTHO + HD
+HCO+ + H- -> CO + H2_PARA
+HCO+ + D- -> CO + HD
+DCO+ + H- -> CO + HD
+DCO+ + D- -> CO + D2_PARA
+C2 + HE+ -> C + HE + C+
+CH + HE+ -> H + HE + C+
+CD + HE+ -> D + HE + C+
+CN + HE+ -> HE + N + C+
+CN + HE+ -> C + HE + N+
+CO + HE+ -> HE + O + C+
+H2_PARA + HE+ -> H + HE + H+
+H2_ORTHO + HE+ -> H + HE + H+
+D2_PARA + HE+ -> D + HE + D+
+D2_ORTHO + HE+ -> D + HE + D+
+HD + HE+ -> H + HE + D+
+HD + HE+ -> D + HE + H+
+N2 + HE+ -> HE + N + N+
+NH + HE+ -> H + HE + N+
+ND + HE+ -> D + HE + N+
+NO + HE+ -> HE + O + N+
+NO + HE+ -> HE + N + O+
+O2 + HE+ -> HE + O + O+
+OH + HE+ -> H + HE + O+
+OD + HE+ -> D + HE + O+
+C2H + HE+ -> HE + CH + C+
+C2D + HE+ -> HE + CD + C+
+C2H + HE+ -> H + HE + C2+
+C2D + HE+ -> D + HE + C2+
+C2H + HE+ -> C + HE + CH+
+C2D + HE+ -> C + HE + CD+
+C2N + HE+ -> HE + CN + C+
+C3 + HE+ -> HE + C2 + C+
+C3 + HE+ -> C + HE + C2+
+CCO + HE+ -> HE + CO + C+
+CH2 + HE+ -> HE + H2_PARA + C+
+CD2 + HE+ -> HE + D2_PARA + C+
+CHD + HE+ -> HE + HD + C+
+CH2 + HE+ -> H + HE + CH+
+CD2 + HE+ -> D + HE + CD+
+CHD + HE+ -> H + HE + CD+
+CHD + HE+ -> D + HE + CH+
+CO2 + HE+ -> HE + O2 + C+
+CO2 + HE+ -> HE + CO + O+
+CO2 + HE+ -> HE + O + CO+
+CO2 + HE+ -> C + HE + O2+
+H2O + HE+ -> HE + OH + H+
+D2O + HE+ -> HE + OD + D+
+HDO + HE+ -> HE + OH + D+
+HDO + HE+ -> HE + OD + H+
+H2O + HE+ -> H + HE + OH+
+D2O + HE+ -> D + HE + OD+
+HDO + HE+ -> H + HE + OD+
+HDO + HE+ -> D + HE + OH+
+HCN + HE+ -> H + HE + N + C+
+DCN + HE+ -> D + HE + N + C+
+HCN + HE+ -> HE + CH + N+
+DCN + HE+ -> HE + CD + N+
+HCN + HE+ -> HE + N + CH+
+DCN + HE+ -> HE + N + CD+
+HCN + HE+ -> H + HE + CN+
+DCN + HE+ -> D + HE + CN+
+HCO + HE+ -> HE + O + CH+
+DCO + HE+ -> HE + O + CD+
+HCO + HE+ -> H + HE + CO+
+DCO + HE+ -> D + HE + CO+
+HCO + HE+ -> CO + HEH+
+DCO + HE+ -> CO + HED+
+HNC + HE+ -> H + HE + N + C+
+DNC + HE+ -> D + HE + N + C+
+HNC + HE+ -> H + HE + CN+
+DNC + HE+ -> D + HE + CN+
+HNC + HE+ -> C + HE + NH+
+DNC + HE+ -> C + HE + ND+
+HNO + HE+ -> HE + NO + H+
+DNO + HE+ -> HE + NO + D+
+HNO + HE+ -> H + HE + NO+
+DNO + HE+ -> D + HE + NO+
+N2O + HE+ -> HE + NO + N+
+N2O + HE+ -> HE + N2 + O+
+N2O + HE+ -> HE + O + N2+
+N2O + HE+ -> HE + N + NO+
+NH2 + HE+ -> HE + H2_PARA + N+
+ND2 + HE+ -> HE + D2_PARA + N+
+NHD + HE+ -> HE + HD + N+
+NH2 + HE+ -> H + HE + NH+
+ND2 + HE+ -> D + HE + ND+
+NHD + HE+ -> H + HE + ND+
+NHD + HE+ -> D + HE + NH+
+OCN + HE+ -> HE + CN + O+
+OCN + HE+ -> HE + O + CN+
+C + C2H+ -> H + C3+
+C + C2D+ -> D + C3+
+N + C2H+ -> CN + CH+
+N + C2D+ -> CN + CD+
+N + C2H+ -> H + C2N+
+N + C2D+ -> D + C2N+
+O + C2H+ -> C + HCO+
+O + C2D+ -> C + DCO+
+CH + C2H+ -> C2 + CH2+
+CH + C2D+ -> C2 + CHD+
+CD + C2H+ -> C2 + CHD+
+CD + C2D+ -> C2 + CD2+
+H2O + C2N+ -> HCN + HCO+
+D2O + C2N+ -> DCN + DCO+
+HDO + C2N+ -> HCN + DCO+
+HDO + C2N+ -> DCN + HCO+
+C + CH2+ -> H + C2H+
+C + CD2+ -> D + C2D+
+C + CHD+ -> H + C2D+
+C + CHD+ -> D + C2H+
+N + CH2+ -> H + HCN+
+N + CD2+ -> D + DCN+
+N + CHD+ -> H + DCN+
+N + CHD+ -> D + HCN+
+O + CH2+ -> H + HCO+
+O + CD2+ -> D + DCO+
+O + CHD+ -> H + DCO+
+O + CHD+ -> D + HCO+
+O2 + CH2+ -> OH + HCO+
+O2 + CD2+ -> OD + DCO+
+O2 + CHD+ -> OH + DCO+
+O2 + CHD+ -> OD + HCO+
+H2O + CNC+ -> HCN + HCO+
+D2O + CNC+ -> DCN + DCO+
+HDO + CNC+ -> HCN + DCO+
+HDO + CNC+ -> DCN + HCO+
+H + CO2+ -> O + HCO+
+D + CO2+ -> O + DCO+
+O + CO2+ -> CO + O2+
+C + H2O+ -> OH + CH+
+C + D2O+ -> OD + CD+
+C + HDO+ -> OH + CD+
+C + HDO+ -> OD + CH+
+N + H2O+ -> H + HNO+
+N + D2O+ -> D + DNO+
+N + HDO+ -> H + DNO+
+N + HDO+ -> D + HNO+
+O + H2O+ -> H2_PARA + O2+
+O + D2O+ -> D2_PARA + O2+
+O + HDO+ -> HD + O2+
+C + HCN+ -> CN + CH+
+C + DCN+ -> CN + CD+
+C2 + HCN+ -> CN + C2H+
+C2 + DCN+ -> CN + C2D+
+CH + HCN+ -> CN + CH2+
+CH + DCN+ -> CN + CHD+
+CD + HCN+ -> CN + CHD+
+CD + DCN+ -> CN + CD2+
+CO + HCN+ -> CN + HCO+
+CO + DCN+ -> CN + DCO+
+NH + HCN+ -> CN + NH2+
+NH + DCN+ -> CN + NHD+
+ND + HCN+ -> CN + NHD+
+ND + DCN+ -> CN + ND2+
+OH + HCN+ -> CN + H2O+
+OH + DCN+ -> CN + HDO+
+OD + HCN+ -> CN + HDO+
+OD + DCN+ -> CN + D2O+
+C + HCO+ -> CO + CH+
+C + DCO+ -> CO + CD+
+C2 + HCO+ -> CO + C2H+
+C2 + DCO+ -> CO + C2D+
+CH + HCO+ -> CO + CH2+
+CH + DCO+ -> CO + CHD+
+CD + HCO+ -> CO + CHD+
+CD + DCO+ -> CO + CD2+
+NH + HCO+ -> CO + NH2+
+NH + DCO+ -> CO + NHD+
+ND + HCO+ -> CO + NHD+
+ND + DCO+ -> CO + ND2+
+OH + HCO+ -> CO + H2O+
+OH + DCO+ -> CO + HDO+
+OD + HCO+ -> CO + HDO+
+OD + DCO+ -> CO + D2O+
+O2 + C2H -> CO + HCO
+O2 + C2D -> CO + DCO
+C + CH2 -> CH + CH
+C + CD2 -> CD + CD
+C + CHD -> CH + CD
+C + CH2 -> H + C2H
+C + CD2 -> D + C2D
+C + CHD -> H + C2D
+C + CHD -> D + C2H
+C + NH2 -> CH + NH
+C + ND2 -> CD + ND
+C + NHD -> CH + ND
+C + NHD -> CD + NH
+C + NH2 -> H + HNC
+C + ND2 -> D + DNC
+C + NHD -> H + DNC
+C + NHD -> D + HNC
+C + NH2 -> H + HCN
+C + ND2 -> D + DCN
+C + NHD -> H + DCN
+C + NHD -> D + HCN
+C + CN -> N + C2
+C + N2 -> N + CN
+C + CO -> O + C2
+H + HCO -> CO + H2_PARA
+H + DCO -> CO + HD
+D + HCO -> CO + HD
+D + DCO -> CO + D2_PARA
+H + HCO -> O + CH2
+H + DCO -> O + CHD
+D + HCO -> O + CHD
+D + DCO -> O + CD2
+H + CH -> C + H2_PARA
+H + CD -> C + HD
+D + CH -> C + HD
+D + CD -> C + D2_PARA
+H + CH2 -> CH + H2_PARA
+H + CD2 -> CH + D2_PARA
+H + CD2 -> CD + HD
+H + CHD -> CH + HD
+H + CHD -> CD + H2_PARA
+D + CH2 -> CH + HD
+D + CH2 -> CD + H2_PARA
+D + CD2 -> CD + D2_PARA
+D + CHD -> CH + D2_PARA
+D + CHD -> CD + HD
+H + OH -> O + H2_PARA
+H + OD -> O + HD
+D + OH -> O + HD
+D + OD -> O + D2_PARA
+H + H2O -> H2_PARA + OH
+H + D2O -> D2_PARA + OH
+H + D2O -> HD + OD
+H + HDO -> H2_PARA + OD
+H + HDO -> HD + OH
+D + H2O -> H2_PARA + OD
+D + H2O -> HD + OH
+D + D2O -> D2_PARA + OD
+D + HDO -> D2_PARA + OH
+D + HDO -> HD + OD
+H + HCN -> CN + H2_PARA
+H + DCN -> CN + HD
+D + HCN -> CN + HD
+D + DCN -> CN + D2_PARA
+H + NO -> O + NH
+D + NO -> O + ND
+H + NO -> N + OH
+D + NO -> N + OD
+H + HNO -> O + NH2
+H + DNO -> O + NHD
+D + HNO -> O + NHD
+D + DNO -> O + ND2
+H + HNO -> NH + OH
+H + DNO -> NH + OD
+H + DNO -> ND + OH
+D + HNO -> NH + OD
+D + HNO -> ND + OH
+D + DNO -> ND + OD
+H + O2 -> O + OH
+D + O2 -> O + OD
+H + O2H -> H2_PARA + O2
+H + O2D -> HD + O2
+D + O2H -> HD + O2
+D + O2D -> D2_PARA + O2
+H + O2H -> OH + OH
+H + O2D -> OH + OD
+D + O2H -> OH + OD
+D + O2D -> OD + OD
+H + O2H -> O + H2O
+H + O2D -> O + HDO
+D + O2H -> O + HDO
+D + O2D -> O + D2O
+H + CO2 -> CO + OH
+D + CO2 -> CO + OD
+H + N2O -> N2 + OH
+D + N2O -> N2 + OD
+H + NO2 -> NO + OH
+D + NO2 -> NO + OD
+C + H2_PARA -> H + CH
+C + H2_ORTHO -> H + CH
+C + D2_PARA -> D + CD
+C + D2_ORTHO -> D + CD
+C + HD -> H + CD
+C + HD -> D + CH
+CH + H2_PARA -> H + CH2
+CH + H2_ORTHO -> H + CH2
+CH + D2_PARA -> H + CD2
+CH + D2_ORTHO -> H + CD2
+CH + D2_PARA -> D + CHD
+CH + D2_ORTHO -> D + CHD
+CH + HD -> H + CHD
+CH + HD -> D + CH2
+CD + H2_PARA -> H + CHD
+CD + H2_ORTHO -> H + CHD
+CD + H2_PARA -> D + CH2
+CD + H2_ORTHO -> D + CH2
+CD + D2_PARA -> D + CD2
+CD + D2_ORTHO -> D + CD2
+CD + HD -> H + CD2
+CD + HD -> D + CHD
+O + H2_PARA -> H + OH
+O + H2_ORTHO -> H + OH
+O + D2_PARA -> D + OD
+O + D2_ORTHO -> D + OD
+O + HD -> H + OD
+O + HD -> D + OH
+H2_PARA + OH -> H + H2O
+H2_ORTHO + OH -> H + H2O
+H2_PARA + OD -> H + HDO
+H2_ORTHO + OD -> H + HDO
+H2_PARA + OD -> D + H2O
+H2_ORTHO + OD -> D + H2O
+D2_PARA + OH -> H + D2O
+D2_ORTHO + OH -> H + D2O
+D2_PARA + OH -> D + HDO
+D2_ORTHO + OH -> D + HDO
+D2_PARA + OD -> D + D2O
+D2_ORTHO + OD -> D + D2O
+HD + OH -> H + HDO
+HD + OH -> D + H2O
+HD + OD -> H + D2O
+HD + OD -> D + HDO
+N + H2_PARA -> H + NH
+N + H2_ORTHO -> H + NH
+N + D2_PARA -> D + ND
+N + D2_ORTHO -> D + ND
+N + HD -> H + ND
+N + HD -> D + NH
+H2_PARA + NH -> H + NH2
+H2_ORTHO + NH -> H + NH2
+H2_PARA + ND -> H + NHD
+H2_ORTHO + ND -> H + NHD
+H2_PARA + ND -> D + NH2
+H2_ORTHO + ND -> D + NH2
+D2_PARA + NH -> H + ND2
+D2_ORTHO + NH -> H + ND2
+D2_PARA + NH -> D + NHD
+D2_ORTHO + NH -> D + NHD
+D2_PARA + ND -> D + ND2
+D2_ORTHO + ND -> D + ND2
+HD + NH -> H + NHD
+HD + NH -> D + NH2
+HD + ND -> H + ND2
+HD + ND -> D + NHD
+N + C2 -> C + CN
+N + CH -> H + CN
+N + CD -> D + CN
+N + CN -> C + N2
+N + NH -> H + N2
+N + ND -> D + N2
+N + NO -> O + N2
+N + OH -> H + NO
+N + OD -> D + NO
+N + O2 -> O + NO
+N + CH2 -> H + HCN
+N + CD2 -> D + DCN
+N + CHD -> H + DCN
+N + CHD -> D + HCN
+N + CH2 -> H + HNC
+N + CD2 -> D + DNC
+N + CHD -> H + DNC
+N + CHD -> D + HNC
+N + HCO -> H + OCN
+N + DCO -> D + OCN
+N + NO2 -> N2 + O2
+N + NO2 -> NO + NO
+N + NO2 -> O + N2O
+N + O2H -> NH + O2
+N + O2D -> ND + O2
+N + C2H -> H + C2N
+N + C2D -> D + C2N
+N + C2N -> CN + CN
+N + CCO -> CN + CO
+N + C3 -> C2 + CN
+O + C2 -> C + CO
+O + CH -> H + CO
+O + CD -> D + CO
+O + CN -> N + CO
+O + NH -> H + NO
+O + ND -> D + NO
+O + OH -> H + O2
+O + OD -> D + O2
+O + C2H -> CH + CO
+O + C2D -> CD + CO
+O + C2N -> CN + CO
+O + CCO -> CO + CO
+C2 + H2O+ -> OH + C2H+
+C2 + D2O+ -> OD + C2D+
+C2 + HDO+ -> OH + C2D+
+C2 + HDO+ -> OD + C2H+
+CH + H2O+ -> OH + CH2+
+CH + D2O+ -> OH + CD2+
+CH + D2O+ -> OD + CHD+
+CH + HDO+ -> OH + CHD+
+CH + HDO+ -> OD + CH2+
+CD + H2O+ -> OH + CHD+
+CD + H2O+ -> OD + CH2+
+CD + D2O+ -> OD + CD2+
+CD + HDO+ -> OH + CD2+
+CD + HDO+ -> OD + CHD+
+CO + H2O+ -> OH + HCO+
+CO + D2O+ -> OD + DCO+
+CO + HDO+ -> OH + DCO+
+CO + HDO+ -> OD + HCO+
+C + H3+_ORTHO -> H2_ORTHO + CH+
+C + H3+_PARA -> H2_PARA + CH+
+C + H3+_PARA -> H2_ORTHO + CH+
+C + D3+_ORTHO -> D2_ORTHO + CD+
+C + D3+_META -> D2_PARA + CD+
+C + H2D+_ORTHO -> H2_ORTHO + CD+
+C + H2D+_PARA -> H2_PARA + CD+
+C + H2D+_PARA -> H2_ORTHO + CD+
+C + H2D+_ORTHO -> HD + CH+
+C + H2D+_PARA -> HD + CH+
+C + D2H+_ORTHO -> D2_ORTHO + CH+
+C + D2H+_PARA -> D2_PARA + CH+
+C + D2H+_PARA -> D2_ORTHO + CH+
+C + D2H+_ORTHO -> HD + CD+
+C + D2H+_PARA -> HD + CD+
+N + H3+_ORTHO -> H + NH2+
+N + H3+_PARA -> H + NH2+
+N + D3+_ORTHO -> D + ND2+
+N + D3+_META -> D + ND2+
+N + H2D+_ORTHO -> H + NHD+
+N + H2D+_PARA -> H + NHD+
+N + H2D+_ORTHO -> D + NH2+
+N + H2D+_PARA -> D + NH2+
+N + D2H+_ORTHO -> H + ND2+
+N + D2H+_PARA -> H + ND2+
+N + D2H+_ORTHO -> D + NHD+
+N + D2H+_PARA -> D + NHD+
+O + H3+_ORTHO -> H2_ORTHO + OH+
+O + H3+_PARA -> H2_PARA + OH+
+O + H3+_PARA -> H2_ORTHO + OH+
+O + D3+_ORTHO -> D2_ORTHO + OD+
+O + D3+_META -> D2_PARA + OD+
+O + H2D+_ORTHO -> H2_ORTHO + OD+
+O + H2D+_PARA -> H2_PARA + OD+
+O + H2D+_PARA -> H2_ORTHO + OD+
+O + H2D+_ORTHO -> HD + OH+
+O + H2D+_PARA -> HD + OH+
+O + D2H+_ORTHO -> D2_ORTHO + OH+
+O + D2H+_PARA -> D2_PARA + OH+
+O + D2H+_PARA -> D2_ORTHO + OH+
+O + D2H+_ORTHO -> HD + OD+
+O + D2H+_PARA -> HD + OD+
+O + H3+_ORTHO -> H + H2O+
+O + H3+_PARA -> H + H2O+
+O + D3+_ORTHO -> D + D2O+
+O + D3+_META -> D + D2O+
+O + H2D+_ORTHO -> H + HDO+
+O + H2D+_PARA -> H + HDO+
+O + H2D+_ORTHO -> D + H2O+
+O + H2D+_PARA -> D + H2O+
+O + D2H+_ORTHO -> H + D2O+
+O + D2H+_PARA -> H + D2O+
+O + D2H+_ORTHO -> D + HDO+
+O + D2H+_PARA -> D + HDO+
+C2 + H3+_ORTHO -> H2_ORTHO + C2H+
+C2 + H3+_PARA -> H2_PARA + C2H+
+C2 + H3+_PARA -> H2_ORTHO + C2H+
+C2 + D3+_ORTHO -> D2_ORTHO + C2D+
+C2 + D3+_META -> D2_PARA + C2D+
+C2 + H2D+_ORTHO -> H2_ORTHO + C2D+
+C2 + H2D+_PARA -> H2_PARA + C2D+
+C2 + H2D+_PARA -> H2_ORTHO + C2D+
+C2 + H2D+_ORTHO -> HD + C2H+
+C2 + H2D+_PARA -> HD + C2H+
+C2 + D2H+_ORTHO -> D2_ORTHO + C2H+
+C2 + D2H+_PARA -> D2_PARA + C2H+
+C2 + D2H+_PARA -> D2_ORTHO + C2H+
+C2 + D2H+_ORTHO -> HD + C2D+
+C2 + D2H+_PARA -> HD + C2D+
+CH + H3+_ORTHO -> H2_ORTHO + CH2+
+CH + H3+_PARA -> H2_PARA + CH2+
+CH + H3+_PARA -> H2_ORTHO + CH2+
+CH + D3+_ORTHO -> HD + CD2+
+CH + D3+_META -> HD + CD2+
+CH + H2D+_ORTHO -> H2_ORTHO + CHD+
+CH + H2D+_PARA -> H2_PARA + CHD+
+CH + H2D+_PARA -> H2_ORTHO + CHD+
+CH + H2D+_ORTHO -> HD + CH2+
+CH + H2D+_PARA -> HD + CH2+
+CH + D2H+_ORTHO -> D2_ORTHO + CH2+
+CH + D2H+_PARA -> D2_PARA + CH2+
+CH + D2H+_PARA -> D2_ORTHO + CH2+
+CH + D2H+_ORTHO -> HD + CHD+
+CH + D2H+_PARA -> HD + CHD+
+CD + H3+_ORTHO -> H2_ORTHO + CHD+
+CD + H3+_PARA -> H2_PARA + CHD+
+CD + H3+_PARA -> H2_ORTHO + CHD+
+CD + H3+_ORTHO -> HD + CH2+
+CD + H3+_PARA -> HD + CH2+
+CD + D3+_ORTHO -> D2_ORTHO + CD2+
+CD + D3+_META -> D2_PARA + CD2+
+CD + H2D+_ORTHO -> H2_ORTHO + CD2+
+CD + H2D+_PARA -> H2_PARA + CD2+
+CD + H2D+_PARA -> H2_ORTHO + CD2+
+CD + H2D+_ORTHO -> HD + CHD+
+CD + H2D+_PARA -> HD + CHD+
+CD + D2H+_ORTHO -> D2_ORTHO + CHD+
+CD + D2H+_PARA -> D2_PARA + CHD+
+CD + D2H+_PARA -> D2_ORTHO + CHD+
+CD + D2H+_ORTHO -> HD + CD2+
+CD + D2H+_PARA -> HD + CD2+
+CN + H3+_ORTHO -> H2_ORTHO + HCN+
+CN + H3+_PARA -> H2_PARA + HCN+
+CN + H3+_PARA -> H2_ORTHO + HCN+
+CN + D3+_ORTHO -> D2_ORTHO + DCN+
+CN + D3+_META -> D2_PARA + DCN+
+CN + H2D+_ORTHO -> H2_ORTHO + DCN+
+CN + H2D+_PARA -> H2_PARA + DCN+
+CN + H2D+_PARA -> H2_ORTHO + DCN+
+CN + H2D+_ORTHO -> HD + HCN+
+CN + H2D+_PARA -> HD + HCN+
+CN + D2H+_ORTHO -> D2_ORTHO + HCN+
+CN + D2H+_PARA -> D2_PARA + HCN+
+CN + D2H+_PARA -> D2_ORTHO + HCN+
+CN + D2H+_ORTHO -> HD + DCN+
+CN + D2H+_PARA -> HD + DCN+
+CO + H3+_ORTHO -> H2_ORTHO + HCO+
+CO + H3+_PARA -> H2_PARA + HCO+
+CO + H3+_PARA -> H2_ORTHO + HCO+
+CO + D3+_ORTHO -> D2_ORTHO + DCO+
+CO + D3+_META -> D2_PARA + DCO+
+CO + H2D+_ORTHO -> H2_ORTHO + DCO+
+CO + H2D+_PARA -> H2_PARA + DCO+
+CO + H2D+_PARA -> H2_ORTHO + DCO+
+CO + H2D+_ORTHO -> HD + HCO+
+CO + H2D+_PARA -> HD + HCO+
+CO + D2H+_ORTHO -> D2_ORTHO + HCO+
+CO + D2H+_PARA -> D2_PARA + HCO+
+CO + D2H+_PARA -> D2_ORTHO + HCO+
+CO + D2H+_ORTHO -> HD + DCO+
+CO + D2H+_PARA -> HD + DCO+
+CO + H3+_ORTHO -> H2_ORTHO + HOC+
+CO + H3+_PARA -> H2_PARA + HOC+
+CO + H3+_PARA -> H2_ORTHO + HOC+
+CO + D3+_ORTHO -> D2_ORTHO + DOC+
+CO + D3+_META -> D2_PARA + DOC+
+CO + H2D+_ORTHO -> H2_ORTHO + DOC+
+CO + H2D+_PARA -> H2_PARA + DOC+
+CO + H2D+_PARA -> H2_ORTHO + DOC+
+CO + H2D+_ORTHO -> HD + HOC+
+CO + H2D+_PARA -> HD + HOC+
+CO + D2H+_ORTHO -> D2_ORTHO + HOC+
+CO + D2H+_PARA -> D2_PARA + HOC+
+CO + D2H+_PARA -> D2_ORTHO + HOC+
+CO + D2H+_ORTHO -> HD + DOC+
+CO + D2H+_PARA -> HD + DOC+
+N2 + H3+_ORTHO -> H2_ORTHO + N2H+
+N2 + H3+_PARA -> H2_PARA + N2H+
+N2 + H3+_PARA -> H2_ORTHO + N2H+
+N2 + D3+_ORTHO -> D2_ORTHO + N2D+
+N2 + D3+_META -> D2_PARA + N2D+
+N2 + H2D+_ORTHO -> H2_ORTHO + N2D+
+N2 + H2D+_PARA -> H2_PARA + N2D+
+N2 + H2D+_PARA -> H2_ORTHO + N2D+
+N2 + H2D+_ORTHO -> HD + N2H+
+N2 + H2D+_PARA -> HD + N2H+
+N2 + D2H+_ORTHO -> D2_ORTHO + N2H+
+N2 + D2H+_PARA -> D2_PARA + N2H+
+N2 + D2H+_PARA -> D2_ORTHO + N2H+
+N2 + D2H+_ORTHO -> HD + N2D+
+N2 + D2H+_PARA -> HD + N2D+
+NH + H3+_ORTHO -> H2_ORTHO + NH2+
+NH + H3+_PARA -> H2_PARA + NH2+
+NH + H3+_PARA -> H2_ORTHO + NH2+
+NH + D3+_ORTHO -> HD + ND2+
+NH + D3+_META -> HD + ND2+
+NH + H2D+_ORTHO -> H2_ORTHO + NHD+
+NH + H2D+_PARA -> H2_PARA + NHD+
+NH + H2D+_PARA -> H2_ORTHO + NHD+
+NH + H2D+_ORTHO -> HD + NH2+
+NH + H2D+_PARA -> HD + NH2+
+NH + D2H+_ORTHO -> D2_ORTHO + NH2+
+NH + D2H+_PARA -> D2_PARA + NH2+
+NH + D2H+_PARA -> D2_ORTHO + NH2+
+NH + D2H+_ORTHO -> HD + NHD+
+NH + D2H+_PARA -> HD + NHD+
+ND + H3+_ORTHO -> H2_ORTHO + NHD+
+ND + H3+_PARA -> H2_PARA + NHD+
+ND + H3+_PARA -> H2_ORTHO + NHD+
+ND + H3+_ORTHO -> HD + NH2+
+ND + H3+_PARA -> HD + NH2+
+ND + D3+_ORTHO -> D2_ORTHO + ND2+
+ND + D3+_META -> D2_PARA + ND2+
+ND + H2D+_ORTHO -> H2_ORTHO + ND2+
+ND + H2D+_PARA -> H2_PARA + ND2+
+ND + H2D+_PARA -> H2_ORTHO + ND2+
+ND + H2D+_ORTHO -> HD + NHD+
+ND + H2D+_PARA -> HD + NHD+
+ND + D2H+_ORTHO -> D2_ORTHO + NHD+
+ND + D2H+_PARA -> D2_PARA + NHD+
+ND + D2H+_PARA -> D2_ORTHO + NHD+
+ND + D2H+_ORTHO -> HD + ND2+
+ND + D2H+_PARA -> HD + ND2+
+NO + H3+_ORTHO -> H2_ORTHO + HNO+
+NO + H3+_PARA -> H2_PARA + HNO+
+NO + H3+_PARA -> H2_ORTHO + HNO+
+NO + D3+_ORTHO -> D2_ORTHO + DNO+
+NO + D3+_META -> D2_PARA + DNO+
+NO + H2D+_ORTHO -> H2_ORTHO + DNO+
+NO + H2D+_PARA -> H2_PARA + DNO+
+NO + H2D+_PARA -> H2_ORTHO + DNO+
+NO + H2D+_ORTHO -> HD + HNO+
+NO + H2D+_PARA -> HD + HNO+
+NO + D2H+_ORTHO -> D2_ORTHO + HNO+
+NO + D2H+_PARA -> D2_PARA + HNO+
+NO + D2H+_PARA -> D2_ORTHO + HNO+
+NO + D2H+_ORTHO -> HD + DNO+
+NO + D2H+_PARA -> HD + DNO+
+O2 + H3+_ORTHO -> H2_ORTHO + O2H+
+O2 + H3+_PARA -> H2_PARA + O2H+
+O2 + H3+_PARA -> H2_ORTHO + O2H+
+O2 + D3+_ORTHO -> D2_ORTHO + O2D+
+O2 + D3+_META -> D2_PARA + O2D+
+O2 + H2D+_ORTHO -> H2_ORTHO + O2D+
+O2 + H2D+_PARA -> H2_PARA + O2D+
+O2 + H2D+_PARA -> H2_ORTHO + O2D+
+O2 + H2D+_ORTHO -> HD + O2H+
+O2 + H2D+_PARA -> HD + O2H+
+O2 + D2H+_ORTHO -> D2_ORTHO + O2H+
+O2 + D2H+_PARA -> D2_PARA + O2H+
+O2 + D2H+_PARA -> D2_ORTHO + O2H+
+O2 + D2H+_ORTHO -> HD + O2D+
+O2 + D2H+_PARA -> HD + O2D+
+OH + H3+_ORTHO -> H2_ORTHO + H2O+
+OH + H3+_PARA -> H2_PARA + H2O+
+OH + H3+_PARA -> H2_ORTHO + H2O+
+OH + D3+_ORTHO -> HD + D2O+
+OH + D3+_META -> HD + D2O+
+OH + H2D+_ORTHO -> H2_ORTHO + HDO+
+OH + H2D+_PARA -> H2_PARA + HDO+
+OH + H2D+_PARA -> H2_ORTHO + HDO+
+OH + H2D+_ORTHO -> HD + H2O+
+OH + H2D+_PARA -> HD + H2O+
+OH + D2H+_ORTHO -> D2_ORTHO + H2O+
+OH + D2H+_PARA -> D2_PARA + H2O+
+OH + D2H+_PARA -> D2_ORTHO + H2O+
+OH + D2H+_ORTHO -> HD + HDO+
+OH + D2H+_PARA -> HD + HDO+
+OD + H3+_ORTHO -> H2_ORTHO + HDO+
+OD + H3+_PARA -> H2_PARA + HDO+
+OD + H3+_PARA -> H2_ORTHO + HDO+
+OD + H3+_ORTHO -> HD + H2O+
+OD + H3+_PARA -> HD + H2O+
+OD + D3+_ORTHO -> D2_ORTHO + D2O+
+OD + D3+_META -> D2_PARA + D2O+
+OD + H2D+_ORTHO -> H2_ORTHO + D2O+
+OD + H2D+_PARA -> H2_PARA + D2O+
+OD + H2D+_PARA -> H2_ORTHO + D2O+
+OD + H2D+_ORTHO -> HD + HDO+
+OD + H2D+_PARA -> HD + HDO+
+OD + D2H+_ORTHO -> D2_ORTHO + HDO+
+OD + D2H+_PARA -> D2_PARA + HDO+
+OD + D2H+_PARA -> D2_ORTHO + HDO+
+OD + D2H+_ORTHO -> HD + D2O+
+OD + D2H+_PARA -> HD + D2O+
+NO2 + H3+_ORTHO -> H2_ORTHO + OH + NO+
+NO2 + H3+_PARA -> H2_PARA + OH + NO+
+NO2 + H3+_PARA -> H2_ORTHO + OH + NO+
+NO2 + D3+_ORTHO -> D2_ORTHO + OD + NO+
+NO2 + D3+_META -> D2_PARA + OD + NO+
+NO2 + H2D+_ORTHO -> H2_ORTHO + OD + NO+
+NO2 + H2D+_PARA -> H2_PARA + OD + NO+
+NO2 + H2D+_PARA -> H2_ORTHO + OD + NO+
+NO2 + H2D+_ORTHO -> HD + OH + NO+
+NO2 + H2D+_PARA -> HD + OH + NO+
+NO2 + D2H+_ORTHO -> D2_ORTHO + OH + NO+
+NO2 + D2H+_PARA -> D2_PARA + OH + NO+
+NO2 + D2H+_PARA -> D2_ORTHO + OH + NO+
+NO2 + D2H+_ORTHO -> HD + OD + NO+
+NO2 + D2H+_PARA -> HD + OD + NO+
+C2H + H+ -> H2_PARA + C2+
+C2H + D+ -> HD + C2+
+C2D + H+ -> HD + C2+
+C2D + D+ -> D2_PARA + C2+
+CCO + H+ -> H + C2O+
+CCO + D+ -> D + C2O+
+CH2 + H+ -> H2_PARA + CH+
+CH2 + D+ -> H2_PARA + CD+
+CH2 + D+ -> HD + CH+
+CD2 + H+ -> D2_PARA + CH+
+CD2 + H+ -> HD + CD+
+CD2 + D+ -> D2_PARA + CD+
+CHD + H+ -> H2_PARA + CD+
+CHD + H+ -> HD + CH+
+CHD + D+ -> D2_PARA + CH+
+CHD + D+ -> HD + CD+
+CO2 + H+ -> O + HCO+
+CO2 + D+ -> O + DCO+
+HCO + H+ -> H2_PARA + CO+
+HCO + D+ -> HD + CO+
+DCO + H+ -> HD + CO+
+DCO + D+ -> D2_PARA + CO+
+HCO + H+ -> CO + H2+_PARA
+HCO + D+ -> CO + HD+
+DCO + H+ -> CO + HD+
+DCO + D+ -> CO + D2+_PARA
+C + HNC+ -> CN + CH+
+C + DNC+ -> CN + CD+
+C2 + HNC+ -> CN + C2H+
+C2 + DNC+ -> CN + C2D+
+CH + HNC+ -> CN + CH2+
+CH + DNC+ -> CN + CHD+
+CD + HNC+ -> CN + CHD+
+CD + DNC+ -> CN + CD2+
+NH + HNC+ -> CN + NH2+
+NH + DNC+ -> CN + NHD+
+ND + HNC+ -> CN + NHD+
+ND + DNC+ -> CN + ND2+
+O2 + HNC+ -> HCO + NO+
+O2 + DNC+ -> DCO + NO+
+OH + HNC+ -> CN + H2O+
+OH + DNC+ -> CN + HDO+
+OD + HNC+ -> CN + HDO+
+OD + DNC+ -> CN + D2O+
+C + HNO+ -> NO + CH+
+C + DNO+ -> NO + CD+
+O + HNO+ -> H + NO2+
+O + DNO+ -> D + NO2+
+C2 + HNO+ -> NO + C2H+
+C2 + DNO+ -> NO + C2D+
+CH + HNO+ -> NO + CH2+
+CH + DNO+ -> NO + CHD+
+CD + HNO+ -> NO + CHD+
+CD + DNO+ -> NO + CD2+
+CO + HNO+ -> NO + HCO+
+CO + DNO+ -> NO + DCO+
+NH + HNO+ -> NO + NH2+
+NH + DNO+ -> NO + NHD+
+ND + HNO+ -> NO + NHD+
+ND + DNO+ -> NO + ND2+
+OH + HNO+ -> NO + H2O+
+OH + DNO+ -> NO + HDO+
+OD + HNO+ -> NO + HDO+
+OD + DNO+ -> NO + D2O+
+CO + HOC+ -> CO + HCO+
+CO + DOC+ -> CO + DCO+
+H2_PARA + HOC+ -> H2_PARA + HCO+
+H2_ORTHO + HOC+ -> H2_PARA + HCO+
+H2_ORTHO + HOC+ -> H2_ORTHO + HCO+
+H2_PARA + DOC+ -> H2_PARA + DCO+
+H2_ORTHO + DOC+ -> H2_PARA + DCO+
+H2_ORTHO + DOC+ -> H2_ORTHO + DCO+
+H2_PARA + DOC+ -> HD + HCO+
+H2_ORTHO + DOC+ -> HD + HCO+
+D2_PARA + HOC+ -> D2_PARA + HCO+
+D2_ORTHO + HOC+ -> D2_PARA + HCO+
+D2_ORTHO + HOC+ -> D2_ORTHO + HCO+
+D2_PARA + HOC+ -> HD + DCO+
+D2_ORTHO + HOC+ -> HD + DCO+
+D2_PARA + DOC+ -> D2_PARA + DCO+
+D2_ORTHO + DOC+ -> D2_PARA + DCO+
+D2_ORTHO + DOC+ -> D2_ORTHO + DCO+
+HD + HOC+ -> H2_PARA + DCO+
+HD + HOC+ -> H2_ORTHO + DCO+
+HD + HOC+ -> HD + HCO+
+HD + DOC+ -> D2_PARA + HCO+
+HD + DOC+ -> D2_ORTHO + HCO+
+HD + DOC+ -> HD + DCO+
+N2 + HOC+ -> CO + N2H+
+N2 + DOC+ -> CO + N2D+
+C + N2H+ -> N2 + CH+
+C + N2D+ -> N2 + CD+
+C2 + N2H+ -> N2 + C2H+
+C2 + N2D+ -> N2 + C2D+
+CH + N2H+ -> N2 + CH2+
+CH + N2D+ -> N2 + CHD+
+CD + N2H+ -> N2 + CHD+
+CD + N2D+ -> N2 + CD2+
+CO + N2H+ -> N2 + HCO+
+CO + N2D+ -> N2 + DCO+
+NH + N2H+ -> N2 + NH2+
+NH + N2D+ -> N2 + NHD+
+ND + N2H+ -> N2 + NHD+
+ND + N2D+ -> N2 + ND2+
+OH + N2H+ -> N2 + H2O+
+OH + N2D+ -> N2 + HDO+
+OD + N2H+ -> N2 + HDO+
+OD + N2D+ -> N2 + D2O+
+CH + N+ -> H + CN+
+CD + N+ -> D + CN+
+H2_PARA + N+ -> H + NH+
+H2_ORTHO + N+ -> H + NH+
+D2_PARA + N+ -> D + ND+
+D2_ORTHO + N+ -> D + ND+
+HD + N+ -> H + ND+
+HD + N+ -> D + NH+
+NH + N+ -> H + N2+
+ND + N+ -> D + N2+
+NO + N+ -> O + N2+
+O2 + N+ -> NO + O+
+O2 + N+ -> O + NO+
+OH + N+ -> H + NO+
+OD + N+ -> D + NO+
+CO2 + N+ -> NO + CO+
+HCO + N+ -> CO + NH+
+DCO + N+ -> CO + ND+
+C2 + O+ -> C + CO+
+CH + O+ -> H + CO+
+CD + O+ -> D + CO+
+CN + O+ -> C + NO+
+H2_PARA + O+ -> H + OH+
+H2_ORTHO + O+ -> H + OH+
+D2_PARA + O+ -> D + OD+
+D2_ORTHO + O+ -> D + OD+
+HD + O+ -> H + OD+
+HD + O+ -> D + OH+
+N2 + O+ -> N + NO+
+NH + O+ -> H + NO+
+ND + O+ -> D + NO+
+OH + O+ -> H + O2+
+OD + O+ -> D + O2+
+C2H + O+ -> CH + CO+
+C2D + O+ -> CD + CO+
+CO2 + O+ -> CO + O2+
+HCN + O+ -> NH + CO+
+DCN + O+ -> ND + CO+
+HCN + O+ -> CH + NO+
+DCN + O+ -> CD + NO+
+HCN + O+ -> N + HCO+
+DCN + O+ -> N + DCO+
+HCO + O+ -> CO + OH+
+DCO + O+ -> CO + OD+
+N2O + O+ -> NO + NO+
+HNC + H+ -> HCN + H+
+HNC + D+ -> HCN + D+
+HNC + D+ -> DCN + H+
+DNC + H+ -> HCN + D+
+DNC + H+ -> DCN + H+
+DNC + D+ -> DCN + D+
+HNO + H+ -> H2_PARA + NO+
+HNO + D+ -> HD + NO+
+DNO + H+ -> HD + NO+
+DNO + D+ -> D2_PARA + NO+
+N + C2+ -> CN + C+
+O + C2+ -> C + CO+
+C2 + C2+ -> C + C3+
+CH + C2+ -> H + C3+
+CD + C2+ -> D + C3+
+H2_PARA + C2+ -> H + C2H+
+H2_ORTHO + C2+ -> H + C2H+
+D2_PARA + C2+ -> D + C2D+
+D2_ORTHO + C2+ -> D + C2D+
+HD + C2+ -> H + C2D+
+HD + C2+ -> D + C2H+
+NH + C2+ -> N + C2H+
+ND + C2+ -> N + C2D+
+NH + C2+ -> H + C2N+
+ND + C2+ -> D + C2N+
+O2 + C2+ -> CO + CO+
+H2O + C2+ -> OH + C2H+
+D2O + C2+ -> OD + C2D+
+HDO + C2+ -> OH + C2D+
+HDO + C2+ -> OD + C2H+
+HCO + C2+ -> CO + C2H+
+DCO + C2+ -> CO + C2D+
+C + CH+ -> H + C2+
+C + CD+ -> D + C2+
+H + CH+ -> H2_PARA + C+
+H + CD+ -> HD + C+
+D + CH+ -> HD + C+
+D + CD+ -> D2_PARA + C+
+N + CH+ -> H + CN+
+N + CD+ -> D + CN+
+O + CH+ -> H + CO+
+O + CD+ -> D + CO+
+C2 + CH+ -> H + C3+
+C2 + CD+ -> D + C3+
+CH + CH+ -> H2_PARA + C2+
+CH + CD+ -> HD + C2+
+CD + CH+ -> HD + C2+
+CD + CD+ -> D2_PARA + C2+
+CN + CH+ -> H + C2N+
+CN + CD+ -> D + C2N+
+CN + CH+ -> H + CNC+
+CN + CD+ -> D + CNC+
+H2_PARA + CH+ -> H + CH2+
+H2_ORTHO + CH+ -> H + CH2+
+H2_PARA + CD+ -> H + CHD+
+H2_ORTHO + CD+ -> H + CHD+
+H2_PARA + CD+ -> D + CH2+
+H2_ORTHO + CD+ -> D + CH2+
+D2_PARA + CH+ -> H + CD2+
+D2_ORTHO + CH+ -> H + CD2+
+D2_PARA + CH+ -> D + CHD+
+D2_ORTHO + CH+ -> D + CHD+
+D2_PARA + CD+ -> D + CD2+
+D2_ORTHO + CD+ -> D + CD2+
+HD + CH+ -> H + CHD+
+HD + CH+ -> D + CH2+
+HD + CD+ -> H + CD2+
+HD + CD+ -> D + CHD+
+NH + CH+ -> H2_PARA + CN+
+NH + CD+ -> HD + CN+
+ND + CH+ -> HD + CN+
+ND + CD+ -> D2_PARA + CN+
+O2 + CH+ -> HCO + O+
+O2 + CD+ -> DCO + O+
+O2 + CH+ -> OH + CO+
+O2 + CD+ -> OD + CO+
+O2 + CH+ -> O + HCO+
+O2 + CD+ -> O + DCO+
+OH + CH+ -> H2_PARA + CO+
+OH + CD+ -> HD + CO+
+OD + CH+ -> HD + CO+
+OD + CD+ -> D2_PARA + CO+
+C2H + CH+ -> H2_PARA + C3+
+C2H + CD+ -> HD + C3+
+C2D + CH+ -> HD + C3+
+C2D + CD+ -> D2_PARA + C3+
+CH2 + CH+ -> H2_PARA + C2H+
+CH2 + CD+ -> H2_PARA + C2D+
+CH2 + CD+ -> HD + C2H+
+CD2 + CH+ -> D2_PARA + C2H+
+CD2 + CH+ -> HD + C2D+
+CD2 + CD+ -> D2_PARA + C2D+
+CHD + CH+ -> H2_PARA + C2D+
+CHD + CH+ -> HD + C2H+
+CHD + CD+ -> D2_PARA + C2H+
+CHD + CD+ -> HD + C2D+
+CO2 + CH+ -> CO + HCO+
+CO2 + CD+ -> CO + DCO+
+H2O + CH+ -> H2_PARA + HCO+
+H2O + CD+ -> H2_PARA + DCO+
+H2O + CD+ -> HD + HCO+
+D2O + CH+ -> D2_PARA + HCO+
+D2O + CH+ -> HD + DCO+
+D2O + CD+ -> D2_PARA + DCO+
+HDO + CH+ -> H2_PARA + DCO+
+HDO + CH+ -> HD + HCO+
+HDO + CD+ -> D2_PARA + HCO+
+HDO + CD+ -> HD + DCO+
+HCN + CH+ -> H2_PARA + C2N+
+HCN + CD+ -> HD + C2N+
+DCN + CH+ -> HD + C2N+
+DCN + CD+ -> D2_PARA + C2N+
+HCO + CH+ -> CO + CH2+
+HCO + CD+ -> CO + CHD+
+DCO + CH+ -> CO + CHD+
+DCO + CD+ -> CO + CD2+
+NH2 + CH+ -> H2_PARA + HCN+
+NH2 + CD+ -> H2_PARA + DCN+
+NH2 + CD+ -> HD + HCN+
+ND2 + CH+ -> D2_PARA + HCN+
+ND2 + CH+ -> HD + DCN+
+ND2 + CD+ -> D2_PARA + DCN+
+NHD + CH+ -> H2_PARA + DCN+
+NHD + CH+ -> HD + HCN+
+NHD + CD+ -> D2_PARA + HCN+
+NHD + CD+ -> HD + DCN+
+O + N2+ -> N + NO+
+H2_PARA + N2+ -> H + N2H+
+H2_ORTHO + N2+ -> H + N2H+
+D2_PARA + N2+ -> D + N2D+
+D2_ORTHO + N2+ -> D + N2D+
+HD + N2+ -> H + N2D+
+HD + N2+ -> D + N2H+
+H2O + N2+ -> OH + N2H+
+D2O + N2+ -> OD + N2D+
+HDO + N2+ -> OH + N2D+
+HDO + N2+ -> OD + N2H+
+HCO + N2+ -> CO + N2H+
+DCO + N2+ -> CO + N2D+
+C + NH+ -> N + CH+
+C + ND+ -> N + CD+
+N + NH+ -> H + N2+
+N + ND+ -> D + N2+
+O + NH+ -> N + OH+
+O + ND+ -> N + OD+
+C2 + NH+ -> N + C2H+
+C2 + ND+ -> N + C2D+
+C2 + NH+ -> H + C2N+
+C2 + ND+ -> D + C2N+
+C2 + NH+ -> C + HCN+
+C2 + ND+ -> C + DCN+
+CH + NH+ -> N + CH2+
+CH + ND+ -> N + CHD+
+CD + NH+ -> N + CHD+
+CD + ND+ -> N + CD2+
+CN + NH+ -> N + HCN+
+CN + ND+ -> N + DCN+
+CO + NH+ -> N + HCO+
+CO + ND+ -> N + DCO+
+CO + NH+ -> H + NCO+
+CO + ND+ -> D + NCO+
+H2_ORTHO + NH+ -> N + H3+_ORTHO
+H2_PARA + ND+ -> N + H2D+_PARA
+H2_ORTHO + ND+ -> N + H2D+_ORTHO
+H2_ORTHO + ND+ -> N + H2D+_PARA
+D2_PARA + NH+ -> N + D2H+_PARA
+D2_ORTHO + NH+ -> N + D2H+_ORTHO
+D2_ORTHO + NH+ -> N + D2H+_PARA
+D2_PARA + ND+ -> N + D3+_META
+D2_ORTHO + ND+ -> N + D3+_ORTHO
+D2_ORTHO + ND+ -> N + D3+_META
+HD + NH+ -> N + H2D+_ORTHO
+HD + NH+ -> N + H2D+_PARA
+HD + ND+ -> N + D2H+_ORTHO
+HD + ND+ -> N + D2H+_PARA
+H2_PARA + NH+ -> H + NH2+
+H2_ORTHO + NH+ -> H + NH2+
+H2_PARA + ND+ -> H + NHD+
+H2_ORTHO + ND+ -> H + NHD+
+H2_PARA + ND+ -> D + NH2+
+H2_ORTHO + ND+ -> D + NH2+
+D2_PARA + NH+ -> H + ND2+
+D2_ORTHO + NH+ -> H + ND2+
+D2_PARA + NH+ -> D + NHD+
+D2_ORTHO + NH+ -> D + NHD+
+D2_PARA + ND+ -> D + ND2+
+D2_ORTHO + ND+ -> D + ND2+
+HD + NH+ -> H + NHD+
+HD + NH+ -> D + NH2+
+HD + ND+ -> H + ND2+
+HD + ND+ -> D + NHD+
+N2 + NH+ -> N + N2H+
+N2 + ND+ -> N + N2D+
+NH + NH+ -> N + NH2+
+NH + ND+ -> N + NHD+
+ND + NH+ -> N + NHD+
+ND + ND+ -> N + ND2+
+NO + NH+ -> O + N2H+
+NO + ND+ -> O + N2D+
+O2 + NH+ -> OH + NO+
+O2 + ND+ -> OD + NO+
+O2 + NH+ -> N + O2H+
+O2 + ND+ -> N + O2D+
+OH + NH+ -> N + H2O+
+OH + ND+ -> N + HDO+
+OD + NH+ -> N + HDO+
+OD + ND+ -> N + D2O+
+CO2 + NH+ -> HCO + NO+
+CO2 + ND+ -> DCO + NO+
+CO2 + NH+ -> CO + HNO+
+CO2 + ND+ -> CO + DNO+
+H2O + NH+ -> H2_PARA + HNO+
+H2O + ND+ -> H2_PARA + DNO+
+H2O + ND+ -> HD + HNO+
+D2O + NH+ -> D2_PARA + HNO+
+D2O + NH+ -> HD + DNO+
+D2O + ND+ -> D2_PARA + DNO+
+HDO + NH+ -> H2_PARA + DNO+
+HDO + NH+ -> HD + HNO+
+HDO + ND+ -> D2_PARA + HNO+
+HDO + ND+ -> HD + DNO+
+H2O + NH+ -> OH + NH2+
+H2O + ND+ -> OH + NHD+
+H2O + ND+ -> OD + NH2+
+D2O + NH+ -> OH + ND2+
+D2O + NH+ -> OD + NHD+
+D2O + ND+ -> OD + ND2+
+HDO + NH+ -> OH + NHD+
+HDO + NH+ -> OD + NH2+
+HDO + ND+ -> OH + ND2+
+HDO + ND+ -> OD + NHD+
+C + O2+ -> O + CO+
+N + O2+ -> O + NO+
+C2 + O2+ -> CO + CO+
+CH + O2+ -> O + HCO+
+CD + O2+ -> O + DCO+
+NH + O2+ -> O + HNO+
+ND + O2+ -> O + DNO+
+NH + O2+ -> H + NO2+
+ND + O2+ -> D + NO2+
+HCO + O2+ -> CO + O2H+
+DCO + O2+ -> CO + O2D+
+C + OH+ -> O + CH+
+C + OD+ -> O + CD+
+N + OH+ -> H + NO+
+N + OD+ -> D + NO+
+O + OH+ -> H + O2+
+O + OD+ -> D + O2+
+C2 + OH+ -> O + C2H+
+C2 + OD+ -> O + C2D+
+CH + OH+ -> O + CH2+
+CH + OD+ -> O + CHD+
+CD + OH+ -> O + CHD+
+CD + OD+ -> O + CD2+
+CN + OH+ -> O + HCN+
+CN + OD+ -> O + DCN+
+CO + OH+ -> O + HCO+
+CO + OD+ -> O + DCO+
+H2_PARA + OH+ -> H + H2O+
+H2_ORTHO + OH+ -> H + H2O+
+H2_PARA + OD+ -> H + HDO+
+H2_ORTHO + OD+ -> H + HDO+
+H2_PARA + OD+ -> D + H2O+
+H2_ORTHO + OD+ -> D + H2O+
+D2_PARA + OH+ -> H + D2O+
+D2_ORTHO + OH+ -> H + D2O+
+D2_PARA + OH+ -> D + HDO+
+D2_ORTHO + OH+ -> D + HDO+
+D2_PARA + OD+ -> D + D2O+
+D2_ORTHO + OD+ -> D + D2O+
+HD + OH+ -> H + HDO+
+HD + OH+ -> D + H2O+
+HD + OD+ -> H + D2O+
+HD + OD+ -> D + HDO+
+N2 + OH+ -> O + N2H+
+N2 + OD+ -> O + N2D+
+NH + OH+ -> O + NH2+
+NH + OD+ -> O + NHD+
+ND + OH+ -> O + NHD+
+ND + OD+ -> O + ND2+
+NO + OH+ -> O + HNO+
+NO + OD+ -> O + DNO+
+OH + OH+ -> O + H2O+
+OH + OD+ -> O + HDO+
+OD + OH+ -> O + HDO+
+OD + OD+ -> O + D2O+
+HCO + OH+ -> CO + H2O+
+HCO + OD+ -> CO + HDO+
+DCO + OH+ -> CO + HDO+
+DCO + OD+ -> CO + D2O+
+N + NH2+ -> H + N2H+
+N + ND2+ -> D + N2D+
+N + NHD+ -> H + N2D+
+N + NHD+ -> D + N2H+
+O + NH2+ -> H + HNO+
+O + ND2+ -> D + DNO+
+O + NHD+ -> H + DNO+
+O + NHD+ -> D + HNO+
+C2 + NH2+ -> NH + C2H+
+C2 + ND2+ -> ND + C2D+
+C2 + NHD+ -> NH + C2D+
+C2 + NHD+ -> ND + C2H+
+CH + NH2+ -> NH + CH2+
+CH + ND2+ -> NH + CD2+
+CH + ND2+ -> ND + CHD+
+CH + NHD+ -> NH + CHD+
+CH + NHD+ -> ND + CH2+
+CD + NH2+ -> NH + CHD+
+CD + NH2+ -> ND + CH2+
+CD + ND2+ -> ND + CD2+
+CD + NHD+ -> NH + CD2+
+CD + NHD+ -> ND + CHD+
+O2 + NH2+ -> OH + HNO+
+O2 + ND2+ -> OD + DNO+
+O2 + NHD+ -> OH + DNO+
+O2 + NHD+ -> OD + HNO+
+H + NO2+ -> OH + NO+
+D + NO2+ -> OD + NO+
+H2_PARA + NO2+ -> H2O + NO+
+H2_ORTHO + NO2+ -> H2O + NO+
+D2_PARA + NO2+ -> D2O + NO+
+D2_ORTHO + NO2+ -> D2O + NO+
+HD + NO2+ -> HDO + NO+
+C + O2H+ -> O2 + CH+
+C + O2D+ -> O2 + CD+
+N + O2H+ -> H + NO2+
+N + O2D+ -> D + NO2+
+O + O2H+ -> O2 + OH+
+O + O2D+ -> O2 + OD+
+C2 + O2H+ -> O2 + C2H+
+C2 + O2D+ -> O2 + C2D+
+CH + O2H+ -> O2 + CH2+
+CH + O2D+ -> O2 + CHD+
+CD + O2H+ -> O2 + CHD+
+CD + O2D+ -> O2 + CD2+
+CN + O2H+ -> O2 + HCN+
+CN + O2D+ -> O2 + DCN+
+CO + O2H+ -> O2 + HCO+
+CO + O2D+ -> O2 + DCO+
+H2_ORTHO + O2H+ -> O2 + H3+_ORTHO
+H2_PARA + O2D+ -> O2 + H2D+_PARA
+H2_ORTHO + O2D+ -> O2 + H2D+_ORTHO
+H2_ORTHO + O2D+ -> O2 + H2D+_PARA
+D2_PARA + O2H+ -> O2 + D2H+_PARA
+D2_ORTHO + O2H+ -> O2 + D2H+_ORTHO
+D2_ORTHO + O2H+ -> O2 + D2H+_PARA
+D2_PARA + O2D+ -> O2 + D3+_META
+D2_ORTHO + O2D+ -> O2 + D3+_ORTHO
+D2_ORTHO + O2D+ -> O2 + D3+_META
+HD + O2H+ -> O2 + H2D+_ORTHO
+HD + O2H+ -> O2 + H2D+_PARA
+HD + O2D+ -> O2 + D2H+_ORTHO
+HD + O2D+ -> O2 + D2H+_PARA
+N2 + O2H+ -> O2 + N2H+
+N2 + O2D+ -> O2 + N2D+
+NH + O2H+ -> O2 + NH2+
+NH + O2D+ -> O2 + NHD+
+ND + O2H+ -> O2 + NHD+
+ND + O2D+ -> O2 + ND2+
+NO + O2H+ -> O2 + HNO+
+NO + O2D+ -> O2 + DNO+
+OH + O2H+ -> O2 + H2O+
+OH + O2D+ -> O2 + HDO+
+OD + O2H+ -> O2 + HDO+
+OD + O2D+ -> O2 + D2O+
+O + CH -> HCO+ + E
+O + CD -> DCO+ + E
+C + CH -> H + C2
+C + CD -> D + C2
+C + NH -> H + CN
+C + ND -> D + CN
+C + NO -> O + CN
+C + NO -> N + CO
+C + O2 -> O + CO
+C + OH -> H + CO
+C + OD -> D + CO
+C + HCO -> CH + CO
+C + DCO -> CD + CO
+C + HCO -> H + CCO
+C + DCO -> D + CCO
+C + C2N -> C2 + CN
+C + C2H -> H + C3
+C + C2D -> D + C3
+C + CCO -> C2 + CO
+C + OCN -> CN + CO
+CO + N+ -> C + NO+
+NO + C+ -> C + NO+
+CN + O- -> O + CN-
+CN + OH- -> OH + CN-
+CN + OD- -> OD + CN-
+NH + CN+ -> CN + NH+
+ND + CN+ -> CN + ND+
+OH + CN+ -> CN + OH+
+OD + CN+ -> CN + OD+
+C2H + CN+ -> CN + C2H+
+C2D + CN+ -> CN + C2D+
+CH2 + CN+ -> CN + CH2+
+CD2 + CN+ -> CN + CD2+
+CHD + CN+ -> CN + CHD+
+NH2 + CN+ -> CN + NH2+
+ND2 + CN+ -> CN + ND2+
+NHD + CN+ -> CN + NHD+
+C + CO+ -> CO + C+
+H + CO+ -> CO + H+
+D + CO+ -> CO + D+
+O + CO+ -> CO + O+
+C2 + CO+ -> CO + C2+
+NO + CO+ -> CO + NO+
+O2 + CO+ -> CO + O2+
+CO2 + CO+ -> CO + CO2+
+HCN + CO+ -> CO + HCN+
+DCN + CO+ -> CO + DCN+
+HCO + CO+ -> CO + HCO+
+DCO + CO+ -> CO + DCO+
+H + H2+_PARA -> H2_PARA + H+
+H + H2+_ORTHO -> H2_ORTHO + H+
+H + D2+_PARA -> D2_PARA + H+
+H + D2+_ORTHO -> D2_ORTHO + H+
+H + HD+ -> HD + H+
+D + H2+_PARA -> H2_PARA + D+
+D + H2+_ORTHO -> H2_ORTHO + D+
+D + D2+_PARA -> D2_PARA + D+
+D + D2+_ORTHO -> D2_ORTHO + D+
+D + HD+ -> HD + D+
+HCN + H2+_PARA -> H2_PARA + HCN+
+HCN + H2+_ORTHO -> H2_ORTHO + HCN+
+HCN + D2+_PARA -> D2_PARA + HCN+
+HCN + D2+_ORTHO -> D2_ORTHO + HCN+
+HCN + HD+ -> HD + HCN+
+DCN + H2+_PARA -> H2_PARA + DCN+
+DCN + H2+_ORTHO -> H2_ORTHO + DCN+
+DCN + D2+_PARA -> D2_PARA + DCN+
+DCN + D2+_ORTHO -> D2_ORTHO + DCN+
+DCN + HD+ -> HD + DCN+
+NH2 + H2+_PARA -> H2_PARA + NH2+
+NH2 + H2+_ORTHO -> H2_ORTHO + NH2+
+NH2 + D2+_PARA -> D2_PARA + NH2+
+NH2 + D2+_ORTHO -> D2_ORTHO + NH2+
+NH2 + HD+ -> HD + NH2+
+ND2 + H2+_PARA -> H2_PARA + ND2+
+ND2 + H2+_ORTHO -> H2_ORTHO + ND2+
+ND2 + D2+_PARA -> D2_PARA + ND2+
+ND2 + D2+_ORTHO -> D2_ORTHO + ND2+
+ND2 + HD+ -> HD + ND2+
+NHD + H2+_PARA -> H2_PARA + NHD+
+NHD + H2+_ORTHO -> H2_ORTHO + NHD+
+NHD + D2+_PARA -> D2_PARA + NHD+
+NHD + D2+_ORTHO -> D2_ORTHO + NHD+
+NHD + HD+ -> HD + NHD+
+C + N2+ -> N2 + C+
+H + N2+ -> N2 + H+
+D + N2+ -> N2 + D+
+N + N2+ -> N2 + N+
+C+ + C- -> C + C
+C+ + H- -> C + H
+C+ + D- -> C + D
+H+ + C- -> C + H
+D+ + C- -> C + D
+H+ + H- -> H + H
+H+ + D- -> H + D
+D+ + H- -> H + D
+D+ + D- -> D + D
+HE+ + C- -> C + HE
+HE+ + H- -> H + HE
+HE+ + D- -> D + HE
+N+ + C- -> C + N
+N+ + H- -> H + N
+N+ + D- -> D + N
+O+ + C- -> C + O
+O+ + H- -> H + O
+O+ + D- -> D + O
+H2+_PARA + H- -> H + H2_PARA
+H2+_ORTHO + H- -> H + H2_ORTHO
+H2+_PARA + D- -> D + H2_PARA
+H2+_ORTHO + D- -> D + H2_ORTHO
+D2+_PARA + H- -> H + D2_PARA
+D2+_ORTHO + H- -> H + D2_ORTHO
+D2+_PARA + D- -> D + D2_PARA
+D2+_ORTHO + D- -> D + D2_ORTHO
+HD+ + H- -> H + HD
+HD+ + D- -> D + HD
+H + HE+ -> HE + H+
+D + HE+ -> HE + D+
+NO + C2H+ -> C2H + NO+
+NO + C2D+ -> C2D + NO+
+NO + CH2+ -> CH2 + NO+
+NO + CD2+ -> CD2 + NO+
+NO + CHD+ -> CHD + NO+
+NO + CO2+ -> CO2 + NO+
+O2 + CO2+ -> CO2 + O2+
+H + HCN+ -> HCN + H+
+H + DCN+ -> DCN + H+
+D + HCN+ -> HCN + D+
+D + DCN+ -> DCN + D+
+O + HCN+ -> HCN + O+
+O + DCN+ -> DCN + O+
+NO + HCN+ -> HCN + NO+
+NO + DCN+ -> DCN + NO+
+O2 + HCN+ -> HCN + O2+
+O2 + DCN+ -> DCN + O2+
+NO + H2O+ -> H2O + NO+
+NO + D2O+ -> D2O + NO+
+NO + HDO+ -> HDO + NO+
+O2 + H2O+ -> H2O + O2+
+O2 + D2O+ -> D2O + O2+
+O2 + HDO+ -> HDO + O2+
+O + H+ -> H + O+
+O + D+ -> D + O+
+C2 + H+ -> H + C2+
+C2 + D+ -> D + C2+
+CH + H+ -> H + CH+
+CH + D+ -> D + CH+
+CD + H+ -> H + CD+
+CD + D+ -> D + CD+
+NH + H+ -> H + NH+
+NH + D+ -> D + NH+
+ND + H+ -> H + ND+
+ND + D+ -> D + ND+
+NO + H+ -> H + NO+
+NO + D+ -> D + NO+
+O2 + H+ -> H + O2+
+O2 + D+ -> D + O2+
+OH + H+ -> H + OH+
+OH + D+ -> D + OH+
+OD + H+ -> H + OD+
+OD + D+ -> D + OD+
+C2N + H+ -> H + C2N+
+C2N + D+ -> D + C2N+
+C3 + H+ -> H + C3+
+C3 + D+ -> D + C3+
+H2O + H+ -> H + H2O+
+H2O + D+ -> D + H2O+
+D2O + H+ -> H + D2O+
+D2O + D+ -> D + D2O+
+HDO + H+ -> H + HDO+
+HDO + D+ -> D + HDO+
+HCN + H+ -> H + HCN+
+HCN + D+ -> D + HCN+
+DCN + H+ -> H + DCN+
+DCN + D+ -> D + DCN+
+NO + HNC+ -> HNC + NO+
+NO + DNC+ -> DNC + NO+
+NO + HNO+ -> HNO + NO+
+NO + DNO+ -> DNO + NO+
+C2 + N+ -> N + C2+
+CN + N+ -> N + CN+
+CO + N+ -> N + CO+
+C2H + N+ -> N + C2H+
+C2D + N+ -> N + C2D+
+CH2 + N+ -> N + CH2+
+CD2 + N+ -> N + CD2+
+CHD + N+ -> N + CHD+
+H2O + N+ -> N + H2O+
+D2O + N+ -> N + D2O+
+HDO + N+ -> N + HDO+
+HCN + N+ -> N + HCN+
+DCN + N+ -> N + DCN+
+NH2 + N+ -> N + NH2+
+ND2 + N+ -> N + ND2+
+NHD + N+ -> N + NHD+
+H + O+ -> O + H+
+D + O+ -> O + D+
+NO + O+ -> O + NO+
+O2 + O+ -> O + O2+
+CH2 + O+ -> O + CH2+
+CD2 + O+ -> O + CD2+
+CHD + O+ -> O + CHD+
+H2O + O+ -> O + H2O+
+D2O + O+ -> O + D2O+
+HDO + O+ -> O + HDO+
+NH2 + O+ -> O + NH2+
+ND2 + O+ -> O + ND2+
+NHD + O+ -> O + NHD+
+NO2 + O+ -> O + NO2+
+NH2 + H+ -> H + NH2+
+NH2 + D+ -> D + NH2+
+ND2 + H+ -> H + ND2+
+ND2 + D+ -> D + ND2+
+NHD + H+ -> H + NHD+
+NHD + D+ -> D + NHD+
+C + C2+ -> C2 + C+
+NO + C2+ -> C2 + NO+
+NO + CH+ -> CH + NO+
+NO + CD+ -> CD + NO+
+C + CN+ -> CN + C+
+H + CN+ -> CN + H+
+D + CN+ -> CN + D+
+O + CN+ -> CN + O+
+C2 + CN+ -> CN + C2+
+CH + CN+ -> CN + CH+
+CD + CN+ -> CN + CD+
+CO + CN+ -> CN + CO+
+C2 + N2+ -> N2 + C2+
+CH + N2+ -> N2 + CH+
+CD + N2+ -> N2 + CD+
+CN + N2+ -> N2 + CN+
+CO + N2+ -> N2 + CO+
+NH + N2+ -> N2 + NH+
+ND + N2+ -> N2 + ND+
+NO + N2+ -> N2 + NO+
+O2 + N2+ -> N2 + O2+
+OH + N2+ -> N2 + OH+
+OD + N2+ -> N2 + OD+
+C2H + N2+ -> N2 + C2H+
+C2D + N2+ -> N2 + C2D+
+CH2 + N2+ -> N2 + CH2+
+CD2 + N2+ -> N2 + CD2+
+CHD + N2+ -> N2 + CHD+
+CO2 + N2+ -> N2 + CO2+
+HCN + N2+ -> N2 + HCN+
+DCN + N2+ -> N2 + DCN+
+NH2 + N2+ -> N2 + NH2+
+ND2 + N2+ -> N2 + ND2+
+NHD + N2+ -> N2 + NHD+
+NO + O2+ -> O2 + NO+
+NH2 + O2+ -> O2 + NH2+
+ND2 + O2+ -> O2 + ND2+
+NHD + O2+ -> O2 + NHD+
+NO2 + O2+ -> O2 + NO2+
+O2 + OH+ -> OH + O2+
+O2 + OD+ -> OD + O2+
+NO + NH2+ -> NH2 + NO+
+NO + ND2+ -> ND2 + NO+
+NO + NHD+ -> NHD + NO+
+HCO + NH2+ -> NH2 + HCO+
+HCO + ND2+ -> ND2 + HCO+
+HCO + NHD+ -> NHD + HCO+
+DCO + NH2+ -> NH2 + DCO+
+DCO + ND2+ -> ND2 + DCO+
+DCO + NHD+ -> NHD + DCO+
+CH + C+ -> C + CH+
+CD + C+ -> C + CD+
+CH2 + C+ -> C + CH2+
+CD2 + C+ -> C + CD2+
+CHD + C+ -> C + CHD+
+HCO + C+ -> C + HCO+
+DCO + C+ -> C + DCO+
+NO + CN+ -> CN + NO+
+O2 + CN+ -> CN + O2+
+CO2 + CN+ -> CN + CO2+
+HCN + CN+ -> CN + HCN+
+DCN + CN+ -> CN + DCN+
+HCO + CN+ -> CN + HCO+
+DCO + CN+ -> CN + DCO+
+CH + CO+ -> CO + CH+
+CD + CO+ -> CO + CD+
+NH + CO+ -> CO + NH+
+ND + CO+ -> CO + ND+
+OH + CO+ -> CO + OH+
+OD + CO+ -> CO + OD+
+C2H + CO+ -> CO + C2H+
+C2D + CO+ -> CO + C2D+
+CH2 + CO+ -> CO + CH2+
+CD2 + CO+ -> CO + CD2+
+CHD + CO+ -> CO + CHD+
+H2O + CO+ -> CO + H2O+
+D2O + CO+ -> CO + D2O+
+HDO + CO+ -> CO + HDO+
+NH2 + CO+ -> CO + NH2+
+ND2 + CO+ -> CO + ND2+
+NHD + CO+ -> CO + NHD+
+C2 + H2+_PARA -> H2_PARA + C2+
+C2 + H2+_ORTHO -> H2_ORTHO + C2+
+C2 + D2+_PARA -> D2_PARA + C2+
+C2 + D2+_ORTHO -> D2_ORTHO + C2+
+C2 + HD+ -> HD + C2+
+CH + H2+_PARA -> H2_PARA + CH+
+CH + H2+_ORTHO -> H2_ORTHO + CH+
+CH + D2+_PARA -> D2_PARA + CH+
+CH + D2+_ORTHO -> D2_ORTHO + CH+
+CH + HD+ -> HD + CH+
+CD + H2+_PARA -> H2_PARA + CD+
+CD + H2+_ORTHO -> H2_ORTHO + CD+
+CD + D2+_PARA -> D2_PARA + CD+
+CD + D2+_ORTHO -> D2_ORTHO + CD+
+CD + HD+ -> HD + CD+
+CN + H2+_PARA -> H2_PARA + CN+
+CN + H2+_ORTHO -> H2_ORTHO + CN+
+CN + D2+_PARA -> D2_PARA + CN+
+CN + D2+_ORTHO -> D2_ORTHO + CN+
+CN + HD+ -> HD + CN+
+CO + H2+_PARA -> H2_PARA + CO+
+CO + H2+_ORTHO -> H2_ORTHO + CO+
+CO + D2+_PARA -> D2_PARA + CO+
+CO + D2+_ORTHO -> D2_ORTHO + CO+
+CO + HD+ -> HD + CO+
+CH + N+ -> N + CH+
+CD + N+ -> N + CD+
+OH + N+ -> N + OH+
+OD + N+ -> N + OD+
+HCO + O+ -> O + HCO+
+DCO + O+ -> O + DCO+
+H2O + HE+ -> HE + H2O+
+D2O + HE+ -> HE + D2O+
+HDO + HE+ -> HE + HDO+
+H + CO2+ -> CO2 + H+
+D + CO2+ -> CO2 + D+
+O + CO2+ -> CO2 + O+
+H2O + CO2+ -> CO2 + H2O+
+D2O + CO2+ -> CO2 + D2O+
+HDO + CO2+ -> CO2 + HDO+
+H2O + HCN+ -> HCN + H2O+
+H2O + DCN+ -> DCN + H2O+
+D2O + HCN+ -> HCN + D2O+
+D2O + DCN+ -> DCN + D2O+
+HDO + HCN+ -> HCN + HDO+
+HDO + DCN+ -> DCN + HDO+
+OH + O+ -> O + OH+
+OD + O+ -> O + OD+
+NH + H2+_PARA -> H2_PARA + NH+
+NH + H2+_ORTHO -> H2_ORTHO + NH+
+NH + D2+_PARA -> D2_PARA + NH+
+NH + D2+_ORTHO -> D2_ORTHO + NH+
+NH + HD+ -> HD + NH+
+ND + H2+_PARA -> H2_PARA + ND+
+ND + H2+_ORTHO -> H2_ORTHO + ND+
+ND + D2+_PARA -> D2_PARA + ND+
+ND + D2+_ORTHO -> D2_ORTHO + ND+
+ND + HD+ -> HD + ND+
+NO + H2+_PARA -> H2_PARA + NO+
+NO + H2+_ORTHO -> H2_ORTHO + NO+
+NO + D2+_PARA -> D2_PARA + NO+
+NO + D2+_ORTHO -> D2_ORTHO + NO+
+NO + HD+ -> HD + NO+
+O2 + H2+_PARA -> H2_PARA + O2+
+O2 + H2+_ORTHO -> H2_ORTHO + O2+
+O2 + D2+_PARA -> D2_PARA + O2+
+O2 + D2+_ORTHO -> D2_ORTHO + O2+
+O2 + HD+ -> HD + O2+
+OH + H2+_PARA -> H2_PARA + OH+
+OH + H2+_ORTHO -> H2_ORTHO + OH+
+OH + D2+_PARA -> D2_PARA + OH+
+OH + D2+_ORTHO -> D2_ORTHO + OH+
+OH + HD+ -> HD + OH+
+OD + H2+_PARA -> H2_PARA + OD+
+OD + H2+_ORTHO -> H2_ORTHO + OD+
+OD + D2+_PARA -> D2_PARA + OD+
+OD + D2+_ORTHO -> D2_ORTHO + OD+
+OD + HD+ -> HD + OD+
+C2H + H2+_PARA -> H2_PARA + C2H+
+C2H + H2+_ORTHO -> H2_ORTHO + C2H+
+C2H + D2+_PARA -> D2_PARA + C2H+
+C2H + D2+_ORTHO -> D2_ORTHO + C2H+
+C2H + HD+ -> HD + C2H+
+C2D + H2+_PARA -> H2_PARA + C2D+
+C2D + H2+_ORTHO -> H2_ORTHO + C2D+
+C2D + D2+_PARA -> D2_PARA + C2D+
+C2D + D2+_ORTHO -> D2_ORTHO + C2D+
+C2D + HD+ -> HD + C2D+
+CH2 + H2+_PARA -> H2_PARA + CH2+
+CH2 + H2+_ORTHO -> H2_ORTHO + CH2+
+CH2 + D2+_PARA -> D2_PARA + CH2+
+CH2 + D2+_ORTHO -> D2_ORTHO + CH2+
+CH2 + HD+ -> HD + CH2+
+CD2 + H2+_PARA -> H2_PARA + CD2+
+CD2 + H2+_ORTHO -> H2_ORTHO + CD2+
+CD2 + D2+_PARA -> D2_PARA + CD2+
+CD2 + D2+_ORTHO -> D2_ORTHO + CD2+
+CD2 + HD+ -> HD + CD2+
+CHD + H2+_PARA -> H2_PARA + CHD+
+CHD + H2+_ORTHO -> H2_ORTHO + CHD+
+CHD + D2+_PARA -> D2_PARA + CHD+
+CHD + D2+_ORTHO -> D2_ORTHO + CHD+
+CHD + HD+ -> HD + CHD+
+H2O + H2+_PARA -> H2_PARA + H2O+
+H2O + H2+_ORTHO -> H2_ORTHO + H2O+
+H2O + D2+_PARA -> D2_PARA + H2O+
+H2O + D2+_ORTHO -> D2_ORTHO + H2O+
+H2O + HD+ -> HD + H2O+
+D2O + H2+_PARA -> H2_PARA + D2O+
+D2O + H2+_ORTHO -> H2_ORTHO + D2O+
+D2O + D2+_PARA -> D2_PARA + D2O+
+D2O + D2+_ORTHO -> D2_ORTHO + D2O+
+D2O + HD+ -> HD + D2O+
+HDO + H2+_PARA -> H2_PARA + HDO+
+HDO + H2+_ORTHO -> H2_ORTHO + HDO+
+HDO + D2+_PARA -> D2_PARA + HDO+
+HDO + D2+_ORTHO -> D2_ORTHO + HDO+
+HDO + HD+ -> HD + HDO+
+HCO + H2+_PARA -> H2_PARA + HCO+
+HCO + H2+_ORTHO -> H2_ORTHO + HCO+
+HCO + D2+_PARA -> D2_PARA + HCO+
+HCO + D2+_ORTHO -> D2_ORTHO + HCO+
+HCO + HD+ -> HD + HCO+
+DCO + H2+_PARA -> H2_PARA + DCO+
+DCO + H2+_ORTHO -> H2_ORTHO + DCO+
+DCO + D2+_PARA -> D2_PARA + DCO+
+DCO + D2+_ORTHO -> D2_ORTHO + DCO+
+DCO + HD+ -> HD + DCO+
+C2 + HE+ -> HE + C2+
+CH + HE+ -> HE + CH+
+CD + HE+ -> HE + CD+
+H2_PARA + HE+ -> HE + H2+_PARA
+H2_ORTHO + HE+ -> HE + H2+_ORTHO
+D2_PARA + HE+ -> HE + D2+_PARA
+D2_ORTHO + HE+ -> HE + D2+_ORTHO
+HD + HE+ -> HE + HD+
+N2 + HE+ -> HE + N2+
+O2 + HE+ -> HE + O2+
+CO2 + HE+ -> HE + CO2+
+C2 + H2O+ -> H2O + C2+
+C2 + D2O+ -> D2O + C2+
+C2 + HDO+ -> HDO + C2+
+CH + H2O+ -> H2O + CH+
+CH + D2O+ -> D2O + CH+
+CH + HDO+ -> HDO + CH+
+CD + H2O+ -> H2O + CD+
+CD + D2O+ -> D2O + CD+
+CD + HDO+ -> HDO + CD+
+C2H + H2O+ -> H2O + C2H+
+C2H + D2O+ -> D2O + C2H+
+C2H + HDO+ -> HDO + C2H+
+C2D + H2O+ -> H2O + C2D+
+C2D + D2O+ -> D2O + C2D+
+C2D + HDO+ -> HDO + C2D+
+CH2 + H2O+ -> H2O + CH2+
+CH2 + D2O+ -> D2O + CH2+
+CH2 + HDO+ -> HDO + CH2+
+CD2 + H2O+ -> H2O + CD2+
+CD2 + D2O+ -> D2O + CD2+
+CD2 + HDO+ -> HDO + CD2+
+CHD + H2O+ -> H2O + CHD+
+CHD + D2O+ -> D2O + CHD+
+CHD + HDO+ -> HDO + CHD+
+HCO + H2O+ -> H2O + HCO+
+HCO + D2O+ -> D2O + HCO+
+HCO + HDO+ -> HDO + HCO+
+DCO + H2O+ -> H2O + DCO+
+DCO + D2O+ -> D2O + DCO+
+DCO + HDO+ -> HDO + DCO+
+NH + N+ -> N + NH+
+ND + N+ -> N + ND+
+NH2 + H2O+ -> H2O + NH2+
+NH2 + D2O+ -> D2O + NH2+
+NH2 + HDO+ -> HDO + NH2+
+ND2 + H2O+ -> H2O + ND2+
+ND2 + D2O+ -> D2O + ND2+
+ND2 + HDO+ -> HDO + ND2+
+NHD + H2O+ -> H2O + NHD+
+NHD + D2O+ -> D2O + NHD+
+NHD + HDO+ -> HDO + NHD+
+NO + N+ -> N + NO+
+CO2 + N+ -> N + CO2+
+C2 + O+ -> O + C2+
+C2H + H+ -> H + C2H+
+C2H + D+ -> D + C2H+
+C2D + H+ -> H + C2D+
+C2D + D+ -> D + C2D+
+CH2 + H+ -> H + CH2+
+CH2 + D+ -> D + CH2+
+CD2 + H+ -> H + CD2+
+CD2 + D+ -> D + CD2+
+CHD + H+ -> H + CHD+
+CHD + D+ -> D + CHD+
+O2 + N+ -> N + O2+
+HCO + N+ -> N + HCO+
+DCO + N+ -> N + DCO+
+NO + OH+ -> OH + NO+
+NO + OD+ -> OD + NO+
+CO2 + H2+_PARA -> H2_PARA + CO2+
+CO2 + H2+_ORTHO -> H2_ORTHO + CO2+
+CO2 + D2+_PARA -> D2_PARA + CO2+
+CO2 + D2+_ORTHO -> D2_ORTHO + CO2+
+CO2 + HD+ -> HD + CO2+
+NH2 + C2+ -> C2 + NH2+
+ND2 + C2+ -> C2 + ND2+
+NHD + C2+ -> C2 + NHD+
+CH2 + NH2+ -> NH2 + CH2+
+CH2 + ND2+ -> ND2 + CH2+
+CH2 + NHD+ -> NHD + CH2+
+CD2 + NH2+ -> NH2 + CD2+
+CD2 + ND2+ -> ND2 + CD2+
+CD2 + NHD+ -> NHD + CD2+
+CHD + NH2+ -> NH2 + CHD+
+CHD + ND2+ -> ND2 + CHD+
+CHD + NHD+ -> NHD + CHD+
+NO + NH+ -> NH + NO+
+NO + ND+ -> ND + NO+
+C + O2+ -> O2 + C+
+O2 + NH+ -> NH + O2+
+O2 + ND+ -> ND + O2+
+HCO + H+ -> H + HCO+
+HCO + D+ -> D + HCO+
+DCO + H+ -> H + DCO+
+DCO + D+ -> D + DCO+
+CH + O+ -> O + CH+
+CD + O+ -> O + CD+
+NH + O+ -> O + NH+
+ND + O+ -> O + ND+
+C2H + O+ -> O + C2H+
+C2D + O+ -> O + C2D+
+HCO + CH+ -> CH + HCO+
+HCO + CD+ -> CD + HCO+
+DCO + CH+ -> CH + DCO+
+DCO + CD+ -> CD + DCO+
+HCO + N2+ -> N2 + HCO+
+DCO + N2+ -> N2 + DCO+
+C2 + OH+ -> OH + C2+
+C2 + OD+ -> OD + C2+
+CH + OH+ -> OH + CH+
+CH + OD+ -> OD + CH+
+CD + OH+ -> OH + CD+
+CD + OD+ -> OD + CD+
+C2H + OH+ -> OH + C2H+
+C2H + OD+ -> OD + C2H+
+C2D + OH+ -> OH + C2D+
+C2D + OD+ -> OD + C2D+
+CH2 + OH+ -> OH + CH2+
+CH2 + OD+ -> OD + CH2+
+CD2 + OH+ -> OH + CD2+
+CD2 + OD+ -> OD + CD2+
+CHD + OH+ -> OH + CHD+
+CHD + OD+ -> OD + CHD+
+H2O + OH+ -> OH + H2O+
+H2O + OD+ -> OD + H2O+
+D2O + OH+ -> OH + D2O+
+D2O + OD+ -> OD + D2O+
+HDO + OH+ -> OH + HDO+
+HDO + OD+ -> OD + HDO+
+HCO + OH+ -> OH + HCO+
+HCO + OD+ -> OD + HCO+
+DCO + OH+ -> OH + DCO+
+DCO + OD+ -> OD + DCO+
+NH2 + OH+ -> OH + NH2+
+NH2 + OD+ -> OD + NH2+
+ND2 + OH+ -> OH + ND2+
+ND2 + OD+ -> OD + ND2+
+NHD + OH+ -> OH + NHD+
+NHD + OD+ -> OD + NHD+
+CH + NH2+ -> NH2 + CH+
+CH + ND2+ -> ND2 + CH+
+CH + NHD+ -> NHD + CH+
+CD + NH2+ -> NH2 + CD+
+CD + ND2+ -> ND2 + CD+
+CD + NHD+ -> NHD + CD+
+CH + C2+ -> C2 + CH+
+CD + C2+ -> C2 + CD+
+CH2 + C2+ -> C2 + CH2+
+CD2 + C2+ -> C2 + CD2+
+CHD + C2+ -> C2 + CHD+
+HCO + C2+ -> C2 + HCO+
+DCO + C2+ -> C2 + DCO+
+O + N2+ -> N2 + O+
+H2O + N2+ -> N2 + H2O+
+D2O + N2+ -> N2 + D2O+
+HDO + N2+ -> N2 + HDO+
+H2O + NH+ -> NH + H2O+
+H2O + ND+ -> ND + H2O+
+D2O + NH+ -> NH + D2O+
+D2O + ND+ -> ND + D2O+
+HDO + NH+ -> NH + HDO+
+HDO + ND+ -> ND + HDO+
+CH + O2+ -> O2 + CH+
+CD + O2+ -> O2 + CD+
+CH2 + O2+ -> O2 + CH2+
+CD2 + O2+ -> O2 + CD2+
+CHD + O2+ -> O2 + CHD+
+HCO + O2+ -> O2 + HCO+
+DCO + O2+ -> O2 + DCO+
+H + C+ -> CH+
+D + C+ -> CD+
+O + C+ -> CO+
+H2_PARA + C+ -> CH2+
+H2_ORTHO + C+ -> CH2+
+D2_PARA + C+ -> CD2+
+D2_ORTHO + C+ -> CD2+
+HD + C+ -> CHD+
+H + H+ -> H2+_PARA
+H + H+ -> H2+_ORTHO
+H + D+ -> HD+
+D + H+ -> HD+
+D + D+ -> D2+_PARA
+D + D+ -> D2+_ORTHO
+C + C -> C2
+C + H -> CH
+C + D -> CD
+C + N -> CN
+C + O -> CO
+C + H2_PARA -> CH2
+C + H2_ORTHO -> CH2
+C + D2_PARA -> CD2
+C + D2_ORTHO -> CD2
+C + HD -> CHD
+H + O -> OH
+D + O -> OD
+O + O -> O2
+C + C2 -> C3
+H + OH -> H2O
+H + OD -> HDO
+D + OH -> HDO
+D + OD -> D2O
+C + C- -> C2 + E
+H + C- -> CH + E
+D + C- -> CD + E
+N + C- -> CN + E
+O + C- -> CO + E
+CH + C- -> C2H + E
+CD + C- -> C2D + E
+H2_PARA + C- -> CH2 + E
+H2_ORTHO + C- -> CH2 + E
+D2_PARA + C- -> CD2 + E
+D2_ORTHO + C- -> CD2 + E
+HD + C- -> CHD + E
+NH + C- -> HCN + E
+ND + C- -> DCN + E
+O2 + C- -> CO2 + E
+OH + C- -> HCO + E
+OD + C- -> DCO + E
+C + H- -> CH + E
+C + D- -> CD + E
+H + H- -> H2_PARA + E
+H + D- -> HD + E
+D + H- -> HD + E
+D + D- -> D2_PARA + E
+N + H- -> NH + E
+N + D- -> ND + E
+O + H- -> OH + E
+O + D- -> OD + E
+C2 + H- -> C2H + E
+C2 + D- -> C2D + E
+CH + H- -> CH2 + E
+CH + D- -> CHD + E
+CD + H- -> CHD + E
+CD + D- -> CD2 + E
+CN + H- -> HCN + E
+CN + D- -> DCN + E
+CO + H- -> HCO + E
+CO + D- -> DCO + E
+NH + H- -> NH2 + E
+NH + D- -> NHD + E
+ND + H- -> NHD + E
+ND + D- -> ND2 + E
+OH + H- -> H2O + E
+OH + D- -> HDO + E
+OD + H- -> HDO + E
+OD + D- -> D2O + E
+C + O- -> CO + E
+H + O- -> OH + E
+D + O- -> OD + E
+N + O- -> NO + E
+O + O- -> O2 + E
+CH + O- -> HCO + E
+CD + O- -> DCO + E
+CO + O- -> CO2 + E
+H2_PARA + O- -> H2O + E
+H2_ORTHO + O- -> H2O + E
+D2_PARA + O- -> D2O + E
+D2_ORTHO + O- -> D2O + E
+HD + O- -> HDO + E
+H + CN- -> HCN + E
+D + CN- -> DCN + E
+C + OH- -> HCO + E
+C + OD- -> DCO + E
+H + OH- -> H2O + E
+H + OD- -> HDO + E
+D + OH- -> HDO + E
+D + OD- -> D2O + E
+C + E -> C-
+H + E -> H-
+D + E -> D-
+O + E -> O-
+C2+ + E -> C + C
+CH+ + E -> C + H
+CD+ + E -> C + D
+CN+ + E -> C + N
+CO+ + E -> C + O
+H2+_PARA + E -> H + H
+H2+_ORTHO + E -> H + H
+D2+_PARA + E -> D + D
+D2+_ORTHO + E -> D + D
+HD+ + E -> H + D
+H2+_PARA + E -> H2_PARA
+H2+_ORTHO + E -> H2_ORTHO
+D2+_PARA + E -> D2_PARA
+D2+_PARA + E -> D2_ORTHO
+D2+_ORTHO + E -> D2_ORTHO
+HD+ + E -> HD
+HEH+ + E -> H + HE
+HED+ + E -> D + HE
+N2+ + E -> N + N
+NH+ + E -> H + N
+ND+ + E -> D + N
+NO+ + E -> N + O
+O2+ + E -> O + O
+OH+ + E -> H + O
+OD+ + E -> D + O
+C2H+ + E -> H + C2
+C2D+ + E -> D + C2
+C2H+ + E -> C + CH
+C2D+ + E -> C + CD
+C2H+ + E -> C + C + H
+C2D+ + E -> C + C + D
+C2N+ + E -> C + CN
+C2N+ + E -> N + C2
+C2O+ + E -> C + CO
+C3+ + E -> C + C2
+CH2+ + E -> C + H2_PARA
+CD2+ + E -> C + D2_PARA
+CHD+ + E -> C + HD
+CH2+ + E -> H + CH
+CD2+ + E -> D + CD
+CHD+ + E -> H + CD
+CHD+ + E -> D + CH
+CH2+ + E -> C + H + H
+CD2+ + E -> C + D + D
+CHD+ + E -> C + H + D
+CNC+ + E -> C + CN
+CNC+ + E -> N + C2
+CO2+ + E -> O + CO
+H2O+ + E -> O + H2_PARA
+D2O+ + E -> O + D2_PARA
+HDO+ + E -> O + HD
+H2O+ + E -> H + OH
+D2O+ + E -> D + OD
+HDO+ + E -> H + OD
+HDO+ + E -> D + OH
+H2O+ + E -> H + H + O
+D2O+ + E -> D + D + O
+HDO+ + E -> H + D + O
+H3+_ORTHO + E -> H + H + H
+H3+_PARA + E -> H + H + H
+D3+_META + E -> D + D + D
+D3+_ORTHO + E -> D + D + D
+H2D+_ORTHO + E -> H + H + D
+H2D+_PARA + E -> H + H + D
+D2H+_ORTHO + E -> H + D + D
+D2H+_PARA + E -> H + D + D
+H3+_ORTHO + E -> H2_ORTHO + H
+H3+_PARA + E -> H2_ORTHO + H
+H3+_PARA + E -> H2_PARA + H
+D3+_META + E -> D2_ORTHO + D
+D3+_ORTHO + E -> D2_PARA + D
+D3+_ORTHO + E -> D2_ORTHO + D
+H2D+_ORTHO + E -> HD + H
+H2D+_PARA + E -> HD + H
+H2D+_ORTHO + E -> H2_ORTHO + D
+H2D+_PARA + E -> H2_PARA + D
+D2H+_ORTHO + E -> D2_ORTHO + H
+D2H+_PARA + E -> D2_PARA + H
+D2H+_ORTHO + E -> HD + D
+D2H+_PARA + E -> HD + D
+HCN+ + E -> H + CN
+DCN+ + E -> D + CN
+HCO+ + E -> H + CO
+DCO+ + E -> D + CO
+HNC+ + E -> H + CN
+DNC+ + E -> D + CN
+HNO+ + E -> H + NO
+DNO+ + E -> D + NO
+HOC+ + E -> H + CO
+DOC+ + E -> D + CO
+N2H+ + E -> H + N2
+N2D+ + E -> D + N2
+N2H+ + E -> N + NH
+N2D+ + E -> N + ND
+NCO+ + E -> N + CO
+NH2+ + E -> H + H + N
+ND2+ + E -> D + D + N
+NHD+ + E -> H + D + N
+NH2+ + E -> H + NH
+ND2+ + E -> D + ND
+NHD+ + E -> H + ND
+NHD+ + E -> D + NH
+NO2+ + E -> O + NO
+O2H+ + E -> H + O2
+O2D+ + E -> D + O2
+C+ + E -> C
+H+ + E -> H
+D+ + E -> D
+HE+ + E -> HE
+N+ + E -> N
+O+ + E -> O
+H+ + D2_PARA -> D+ + HD
+H+ + D2_ORTHO -> D+ + HD
+D+ + HD -> H+ + D2_PARA
+D+ + HD -> H+ + D2_ORTHO
+H2D+_PARA + D -> D2H+_PARA + H
+H2D+_PARA + D -> D2H+_ORTHO + H
+H2D+_ORTHO + D -> D2H+_PARA + H
+H2D+_ORTHO + D -> D2H+_ORTHO + H
+D2H+_PARA + H -> H2D+_PARA + D
+D2H+_ORTHO + H -> H2D+_PARA + D
+D2H+_PARA + H -> H2D+_ORTHO + D
+D2H+_ORTHO + H -> H2D+_ORTHO + D
+HD+ + D -> D2+_PARA + H
+HD+ + D -> D2+_ORTHO + H
+D2+_PARA + H -> HD+ + D
+D2+_ORTHO + H -> HD+ + D
+D2H+_ORTHO + D -> D3+_ORTHO + H
+D2H+_ORTHO + D -> D3+_META + H
+D2H+_PARA + D -> D3+_ORTHO + H
+D3+_ORTHO + H -> D2H+_PARA + D
+D3+_META + H -> D2H+_ORTHO + D
+D+ + D2_ORTHO -> D+ + D2_PARA
+D+ + D2_PARA -> D+ + D2_ORTHO
+H+ + H2_ORTHO -> H+ + H2_PARA
+H+ + H2_PARA -> H+ + H2_ORTHO
+H2+_ORTHO + H2_ORTHO -> H3+_PARA + H
+H2+_PARA + H2_ORTHO -> H3+_PARA + H
+H2+_ORTHO + H2_PARA -> H3+_PARA + H
+H2+_PARA + H2_PARA -> H3+_PARA + H
+D+ + H -> H+ + D
+H+ + D -> D+ + H
+D+ + H2_PARA -> H+ + HD
+D+ + H2_ORTHO -> H+ + HD
+H+ + HD -> D+ + H2_PARA
+H+ + HD -> D+ + H2_ORTHO
+HD+ + H2_PARA -> H3+_PARA + D
+HD+ + H2_ORTHO -> H3+_PARA + D
+H2+_PARA + HD -> H3+_PARA + D
+H2+_ORTHO + HD -> H3+_PARA + D
+H3+_PARA + D -> H2D+_PARA + H
+H3+_PARA + D -> H2D+_ORTHO + H
+H3+_ORTHO + D -> H2D+_ORTHO + H
+H2D+_PARA + H -> H3+_PARA + D
+H2D+_ORTHO + H -> H3+_ORTHO + D
+H2D+_ORTHO + H -> H3+_PARA + D
+H2+_PARA + D -> H2D+_PARA
+HD+ + H -> H2D+_PARA
+HD+ + H -> H2+_PARA + D
+H2+_PARA + D -> HD+ + H
+D2H+_PARA + HD -> D3+_PARA + H2_PARA
+D2H+_PARA + HD -> D3+_PARA + H2_ORTHO
+D3+_PARA + H2_ORTHO -> D2H+_PARA + HD
+H2D+_ORTHO + D2_PARA -> D3+_PARA + H2_ORTHO
+H2D+_PARA + D2_PARA -> D3+_PARA + H2_PARA
+D2H+_ORTHO + D2_PARA -> D3+_PARA + HD
+D2H+_PARA + D2_ORTHO -> D3+_PARA + HD
+D2H+_PARA + D2_PARA -> D3+_PARA + HD
+D3+_META + D2_PARA -> D3+_PARA + D2_ORTHO
+D3+_ORTHO + D2_PARA -> D3+_PARA + D2_ORTHO
+D3+_PARA + D2_ORTHO -> D3+_META + D2_PARA
+D3+_PARA + D2_ORTHO -> D3+_ORTHO + D2_PARA
+D3+_PARA + CO -> DCO+ + D2_PARA
+D3+_PARA + N2 -> N2D+ + D2_PARA
+D3+_PARA + E -> D + D + D
+D3+_PARA + E -> D2_PARA + D
+D3+_PARA + GRAIN- -> D + D + D + GRAIN0
+D3+_PARA + GRAIN- -> D2_PARA + D + GRAIN0
+C+ + GRAIN- -> C + GRAIN0
+N+ + GRAIN- -> N + GRAIN0
+O+ + GRAIN- -> O + GRAIN0
+HCO + H2+_ORTHO -> CO + H3+_PARA
+HCO + H2+_PARA -> CO + H3+_PARA
+H2_ORTHO + HEH+ -> HE + H3+_PARA
+H2_PARA + HEH+ -> HE + H3+_PARA
+H2_ORTHO + NH+ -> N + H3+_PARA
+H2_PARA + NH+ -> N + H3+_PARA
+H2_ORTHO + O2H+ -> O2 + H3+_PARA
+H2_PARA + O2H+ -> O2 + H3+_PARA
+D+ + GRAIN- -> D + GRAIN0
+D2_ORTHO + HD+ -> H + D3+_PARA
+D2_ORTHO + D2+_ORTHO -> D + D3+_PARA
+D2_PARA + HD+ -> H + D3+_PARA
+D2_PARA + D2+_ORTHO -> D + D3+_PARA
+D2_ORTHO + D2+_PARA -> D + D3+_PARA
+D2_PARA + D2+_PARA -> D + D3+_PARA
+D3+_PARA + H2_PARA -> H2D+_PARA + D2_PARA
+D3+_PARA + H2_PARA -> D2H+_PARA + HD
+D3+_PARA + H2_ORTHO -> H2D+_ORTHO + D2_PARA
+D3+_PARA + HD -> D2H+_PARA + D2_PARA
+D3+_PARA + HD -> D2H+_PARA + D2_ORTHO
+D3+_PARA + HD -> D2H+_ORTHO + D2_PARA
+D3+_PARA + HD -> D3+_ORTHO + HD
+D3+_ORTHO + HD -> D3+_PARA + HD
+D3+_PARA + D2_PARA -> D3+_ORTHO + D2_PARA
+D3+_PARA + D2_PARA -> D3+_ORTHO + D2_ORTHO
+D3+_PARA + D2_ORTHO -> D3+_ORTHO + D2_ORTHO
+D3+_ORTHO + D2_PARA -> D3+_PARA + D2_PARA
+D3+_ORTHO + D2_ORTHO -> D3+_PARA + D2_PARA
+D3+_ORTHO + D2_ORTHO -> D3+_PARA + D2_ORTHO
+DCO + D2+_ORTHO -> CO + D3+_PARA
+DCO + D2+_PARA -> CO + D3+_PARA
+D2_ORTHO + HED+ -> HE + D3+_PARA
+D2_PARA + HED+ -> HE + D3+_PARA
+D2_ORTHO + ND+ -> N + D3+_PARA
+D2_PARA + ND+ -> N + D3+_PARA
+C + D3+_PARA -> D2_ORTHO + CD+
+C + D3+_PARA -> D2_PARA + CD+
+N + D3+_PARA -> D + ND2+
+O + D3+_PARA -> D2_ORTHO + OD+
+O + D3+_PARA -> D2_PARA + OD+
+C2 + D3+_PARA -> D2_ORTHO + C2D+
+C2 + D3+_PARA -> D2_PARA + C2D+
+CD + D3+_PARA -> D2_ORTHO + CD2+
+CD + D3+_PARA -> D2_PARA + CD2+
+CN + D3+_PARA -> D2_ORTHO + DCN+
+CN + D3+_PARA -> D2_PARA + DCN+
+CO + D3+_PARA -> D2_ORTHO + DCO+
+CO + D3+_PARA -> D2_ORTHO + DOC+
+CO + D3+_PARA -> D2_PARA + DOC+
+N2 + D3+_PARA -> D2_ORTHO + N2D+
+ND + D3+_PARA -> D2_ORTHO + ND2+
+ND + D3+_PARA -> D2_PARA + ND2+
+NO + D3+_PARA -> D2_ORTHO + DNO+
+NO + D3+_PARA -> D2_PARA + DNO+
+O2 + D3+_PARA -> D2_ORTHO + O2D+
+O2 + D3+_PARA -> D2_PARA + O2D+
+OD + D3+_PARA -> D2_ORTHO + D2O+
+OD + D3+_PARA -> D2_PARA + D2O+
+NO2 + D3+_PARA -> D2_ORTHO + OD + NO+
+NO2 + D3+_PARA -> D2_PARA + OD + NO+
+O2D+ + D2_ORTHO -> D3+_PARA + O2
+O2D+ + D2_PARA -> D3+_PARA + O2
+D3+_PARA + D- -> D2_ORTHO + D2_PARA
+D3+_PARA + D- -> D2_PARA + D2_PARA
+D3+_PARA -> D2_ORTHO + D+
+D3+_PARA -> D2_PARA + D+
+D3+_PARA -> D + D2+_ORTHO
+D3+_PARA -> D + D2+_PARA
+H2O + H2+_ORTHO -> H + H3O+
+H2O + H2+_PARA -> H + H3O+
+H3O+ + H- -> H + H2_ORTHO + OH
+H3O+ + H- -> H + H2_PARA + OH
+H3O+ + H- -> H2_PARA + H2O
+H3O+ + H- -> H2_ORTHO + H2O
+H2O + HCN+ -> CN + H3O+
+H2O + HCO+ -> CO + H3O+
+H2_PARA + H2O+ -> H + H3O+
+H2_ORTHO + H2O+ -> H + H3O+
+NH + H2O+ -> N + H3O+
+OH + H2O+ -> O + H3O+
+H2O + H2O+ -> OH + H3O+
+HCO + H2O+ -> CO + H3O+
+H2O + H3+_ORTHO -> H2_ORTHO + H3O+
+H2O + H3+_ORTHO -> H2_PARA + H3O+
+H2O + H3+_PARA -> H2_ORTHO + H3O+
+H2O + H3+_PARA -> H2_PARA + H3O+
+H2O + HNC+ -> CN + H3O+
+H2O + HNO+ -> NO + H3O+
+H2O + N2H+ -> N2 + H3O+
+C + H3O+ -> H2_PARA + HCO+
+C + H3O+ -> H2_ORTHO + HCO+
+CH + H3O+ -> H2O + CH2+
+H2O + CH+ -> C + H3O+
+H2O + NH+ -> N + H3O+
+H2O + OH+ -> O + H3O+
+H2O + NH2+ -> NH + H3O+
+H3O+ + C- -> C + H + H2O
+H3O+ + O- -> H + O + H2O
+H3O+ + CN- -> H + CN + H2O
+H3O+ + OH- -> H + OH + H2O
+H + H3O+ -> H2_PARA + H2O+
+H + H3O+ -> H2_ORTHO + H2O+
+H2_ORTHO + H3O+ -> H + H + H3O+
+H2_PARA + H3O+ -> H + H + H3O+
+H3O+ + E -> H + H + OH
+H3O+ + E -> H + H2O
+H3O+ + E -> H2_PARA + OH
+H3O+ + E -> H2_ORTHO + OH
+H3O+ + E -> H + O + H2_ORTHO
+H3O+ + E -> H + O + H2_PARA
+H2O + HD+ -> H + H2DO+
+H2O + HD+ -> D + H3O+
+H2O + D2+_ORTHO -> H + HD2O+
+H2O + D2+_PARA -> H + HD2O+
+H2O + D2+_ORTHO -> D + H2DO+
+H2O + D2+_PARA -> D + H2DO+
+HDO + H2+_PARA -> H + H2DO+
+HDO + H2+_ORTHO -> H + H2DO+
+HDO + H2+_PARA -> D + H3O+
+HDO + H2+_ORTHO -> D + H3O+
+HDO + HD+ -> H + HD2O+
+HDO + HD+ -> D + H2DO+
+HDO + D2+_PARA -> H + D3O+
+HDO + D2+_ORTHO -> H + D3O+
+HDO + D2+_PARA -> D + HD2O+
+HDO + D2+_ORTHO -> D + HD2O+
+D2O + H2+_PARA -> H + HD2O+
+D2O + H2+_ORTHO -> H + HD2O+
+D2O + H2+_PARA -> D + H2DO+
+D2O + H2+_ORTHO -> D + H2DO+
+D2O + HD+ -> H + D3O+
+D2O + HD+ -> D + HD2O+
+D2O + D2+_ORTHO -> D + D3O+
+D2O + D2+_PARA -> D + D3O+
+H3O+ + D- -> H + H2_ORTHO + OD
+H3O+ + D- -> H + H2_PARA + OD
+H3O+ + D- -> H + HD + OH
+H3O+ + D- -> D + H2_ORTHO + OH
+H3O+ + D- -> D + H2_PARA + OH
+H2DO+ + H- -> H + H2_ORTHO + OD
+H2DO+ + H- -> H + H2_PARA + OD
+H2DO+ + H- -> H + HD + OH
+H2DO+ + H- -> D + H2_ORTHO + OH
+H2DO+ + H- -> D + H2_PARA + OH
+H2DO+ + D- -> H + HD + OD
+H2DO+ + D- -> H + D2_PARA + OH
+H2DO+ + D- -> H + D2_ORTHO + OH
+H2DO+ + D- -> D + H2_PARA + OD
+H2DO+ + D- -> D + H2_ORTHO + OD
+H2DO+ + D- -> D + HD + OH
+HD2O+ + H- -> H + HD + OD
+HD2O+ + H- -> H + D2_PARA + OH
+HD2O+ + H- -> H + D2_ORTHO + OH
+HD2O+ + H- -> D + H2_ORTHO + OD
+HD2O+ + H- -> D + H2_PARA + OD
+HD2O+ + H- -> D + HD + OH
+HD2O+ + D- -> H + D2_PARA + OD
+HD2O+ + D- -> H + D2_ORTHO + OD
+HD2O+ + D- -> D + HD + OD
+HD2O+ + D- -> D + D2_PARA + OH
+HD2O+ + D- -> D + D2_ORTHO + OH
+D3O+ + H- -> H + D2_PARA + OD
+D3O+ + H- -> H + D2_ORTHO + OD
+D3O+ + H- -> D + HD + OD
+D3O+ + H- -> D + D2_PARA + OH
+D3O+ + H- -> D + D2_ORTHO + OH
+D3O+ + D- -> D + D2_PARA + OD
+D3O+ + D- -> D + D2_ORTHO + OD
+H3O+ + D- -> H2_PARA + HDO
+H3O+ + D- -> H2_ORTHO + HDO
+H3O+ + D- -> HD + H2O
+H2DO+ + H- -> H2_PARA + HDO
+H2DO+ + H- -> H2_ORTHO + HDO
+H2DO+ + H- -> HD + H2O
+H2DO+ + D- -> H2_PARA + D2O
+H2DO+ + D- -> H2_ORTHO + D2O
+H2DO+ + D- -> HD + HDO
+H2DO+ + D- -> D2_ORTHO + H2O
+H2DO+ + D- -> D2_PARA + H2O
+HD2O+ + H- -> H2_PARA + D2O
+HD2O+ + H- -> H2_ORTHO + D2O
+HD2O+ + H- -> HD + HDO
+HD2O+ + H- -> D2_PARA + H2O
+HD2O+ + H- -> D2_ORTHO + H2O
+HD2O+ + D- -> HD + D2O
+HD2O+ + D- -> D2_PARA + HDO
+HD2O+ + D- -> D2_ORTHO + HDO
+D3O+ + H- -> HD + D2O
+D3O+ + H- -> D2_PARA + HDO
+D3O+ + H- -> D2_ORTHO + HDO
+D3O+ + D- -> D2_ORTHO + D2O
+D3O+ + D- -> D2_PARA + D2O
+H2O + DCN+ -> CN + H2DO+
+HDO + HCN+ -> CN + H2DO+
+HDO + DCN+ -> CN + HD2O+
+D2O + HCN+ -> CN + HD2O+
+D2O + DCN+ -> CN + D3O+
+H2O + DCO+ -> CO + H2DO+
+HDO + HCO+ -> CO + H2DO+
+HDO + DCO+ -> CO + HD2O+
+D2O + HCO+ -> CO + HD2O+
+D2O + DCO+ -> CO + D3O+
+H2_PARA + HDO+ -> H + H2DO+
+H2_ORTHO + HDO+ -> H + H2DO+
+H2_PARA + HDO+ -> D + H3O+
+H2_ORTHO + HDO+ -> D + H3O+
+H2_PARA + D2O+ -> H + HD2O+
+H2_ORTHO + D2O+ -> H + HD2O+
+H2_PARA + D2O+ -> D + H2DO+
+H2_ORTHO + D2O+ -> D + H2DO+
+HD + H2O+ -> H + H2DO+
+HD + H2O+ -> D + H3O+
+HD + HDO+ -> H + HD2O+
+HD + HDO+ -> D + H2DO+
+HD + D2O+ -> H + D3O+
+HD + D2O+ -> D + HD2O+
+D2_ORTHO + H2O+ -> H + HD2O+
+D2_PARA + H2O+ -> H + HD2O+
+D2_ORTHO + H2O+ -> D + H2DO+
+D2_PARA + H2O+ -> D + H2DO+
+D2_PARA + HDO+ -> H + D3O+
+D2_ORTHO + HDO+ -> H + D3O+
+D2_PARA + HDO+ -> D + HD2O+
+D2_ORTHO + HDO+ -> D + HD2O+
+D2_ORTHO + D2O+ -> D + D3O+
+D2_PARA + D2O+ -> D + D3O+
+NH + HDO+ -> N + H2DO+
+NH + D2O+ -> N + HD2O+
+ND + H2O+ -> N + H2DO+
+ND + HDO+ -> N + HD2O+
+ND + D2O+ -> N + D3O+
+OH + HDO+ -> O + H2DO+
+OH + D2O+ -> O + HD2O+
+OD + H2O+ -> O + H2DO+
+OD + HDO+ -> O + HD2O+
+OD + D2O+ -> O + D3O+
+H2O + HDO+ -> OH + H2DO+
+H2O + HDO+ -> OD + H3O+
+H2O + D2O+ -> OH + HD2O+
+H2O + D2O+ -> OD + H2DO+
+HDO + H2O+ -> OH + H2DO+
+HDO + H2O+ -> OD + H3O+
+HDO + HDO+ -> OH + HD2O+
+HDO + HDO+ -> OD + H2DO+
+HDO + D2O+ -> OH + D3O+
+HDO + D2O+ -> OD + HD2O+
+D2O + H2O+ -> OH + HD2O+
+D2O + H2O+ -> OD + H2DO+
+D2O + HDO+ -> OH + D3O+
+D2O + HDO+ -> OD + HD2O+
+D2O + D2O+ -> OD + D3O+
+HCO + HDO+ -> CO + H2DO+
+HCO + D2O+ -> CO + HD2O+
+DCO + H2O+ -> CO + H2DO+
+DCO + HDO+ -> CO + HD2O+
+DCO + D2O+ -> CO + D3O+
+H2O + H2D+_ORTHO -> H2_PARA + H2DO+
+H2O + H2D+_ORTHO -> H2_ORTHO + H2DO+
+H2O + H2D+_PARA -> H2_PARA + H2DO+
+H2O + H2D+_PARA -> H2_ORTHO + H2DO+
+H2O + H2D+_ORTHO -> HD + H3O+
+H2O + H2D+_PARA -> HD + H3O+
+H2O + D2H+_ORTHO -> H2_PARA + HD2O+
+H2O + D2H+_ORTHO -> H2_ORTHO + HD2O+
+H2O + D2H+_PARA -> H2_PARA + HD2O+
+H2O + D2H+_PARA -> H2_ORTHO + HD2O+
+H2O + D2H+_ORTHO -> HD + H2DO+
+H2O + D2H+_PARA -> HD + H2DO+
+H2O + D2H+_ORTHO -> D2_ORTHO + H3O+
+H2O + D2H+_PARA -> D2_PARA + H3O+
+H2O + D3+_PARA -> H2_ORTHO + D3O+
+H2O + D3+_META -> H2_ORTHO + D3O+
+H2O + D3+_ORTHO -> H2_PARA + D3O+
+H2O + D3+_PARA -> H2_PARA + D3O+
+H2O + D3+_ORTHO -> H2_ORTHO + D3O+
+H2O + D3+_META -> H2_PARA + D3O+
+H2O + D3+_PARA -> HD + HD2O+
+H2O + D3+_META -> HD + HD2O+
+H2O + D3+_ORTHO -> HD + HD2O+
+H2O + D3+_PARA -> D2_PARA + H2DO+
+H2O + D3+_META -> D2_ORTHO + H2DO+
+H2O + D3+_ORTHO -> D2_ORTHO + H2DO+
+H2O + D3+_ORTHO -> D2_PARA + H2DO+
+HDO + H3+_ORTHO -> H2_PARA + H2DO+
+HDO + H3+_ORTHO -> H2_ORTHO + H2DO+
+HDO + H3+_PARA -> H2_PARA + H2DO+
+HDO + H3+_PARA -> H2_ORTHO + H2DO+
+HDO + H3+_ORTHO -> HD + H3O+
+HDO + H3+_PARA -> HD + H3O+
+HDO + H2D+_PARA -> H2_PARA + HD2O+
+HDO + H2D+_PARA -> H2_ORTHO + HD2O+
+HDO + H2D+_ORTHO -> H2_PARA + HD2O+
+HDO + H2D+_ORTHO -> H2_ORTHO + HD2O+
+HDO + H2D+_PARA -> HD + H2DO+
+HDO + H2D+_ORTHO -> HD + H2DO+
+HDO + H2D+_PARA -> D2_PARA + H3O+
+HDO + H2D+_PARA -> D2_ORTHO + H3O+
+HDO + H2D+_ORTHO -> D2_PARA + H3O+
+HDO + H2D+_ORTHO -> D2_ORTHO + H3O+
+HDO + D2H+_PARA -> H2_PARA + D3O+
+HDO + D2H+_PARA -> H2_ORTHO + D3O+
+HDO + D2H+_ORTHO -> H2_PARA + D3O+
+HDO + D2H+_ORTHO -> H2_ORTHO + D3O+
+HDO + D2H+_PARA -> HD + HD2O+
+HDO + D2H+_ORTHO -> HD + HD2O+
+HDO + D2H+_PARA -> D2_ORTHO + H2DO+
+HDO + D2H+_PARA -> D2_PARA + H2DO+
+HDO + D2H+_ORTHO -> D2_ORTHO + H2DO+
+HDO + D2H+_ORTHO -> D2_PARA + H2DO+
+HDO + D3+_META -> HD + D3O+
+HDO + D3+_PARA -> HD + D3O+
+HDO + D3+_ORTHO -> HD + D3O+
+HDO + D3+_META -> D2_ORTHO + HD2O+
+HDO + D3+_META -> D2_PARA + HD2O+
+HDO + D3+_PARA -> D2_ORTHO + HD2O+
+HDO + D3+_PARA -> D2_PARA + HD2O+
+HDO + D3+_ORTHO -> D2_ORTHO + HD2O+
+HDO + D3+_ORTHO -> D2_PARA + HD2O+
+D2O + H3+_PARA -> H2_PARA + HD2O+
+D2O + H3+_PARA -> H2_ORTHO + HD2O+
+D2O + H3+_ORTHO -> H2_ORTHO + HD2O+
+D2O + H3+_PARA -> HD + H2DO+
+D2O + H3+_ORTHO -> HD + H2DO+
+D2O + H3+_PARA -> D2_PARA + H3O+
+D2O + H3+_ORTHO -> D2_ORTHO + H3O+
+D2O + H3+_PARA -> D2_ORTHO + H3O+
+D2O + H3+_ORTHO -> D2_PARA + H3O+
+D2O + H2D+_PARA -> H2_PARA + D3O+
+D2O + H2D+_ORTHO -> H2_ORTHO + D3O+
+D2O + H2D+_PARA -> HD + HD2O+
+D2O + H2D+_ORTHO -> HD + HD2O+
+D2O + H2D+_PARA -> D2_ORTHO + H2DO+
+D2O + H2D+_PARA -> D2_PARA + H2DO+
+D2O + H2D+_ORTHO -> D2_PARA + H2DO+
+D2O + H2D+_ORTHO -> D2_ORTHO + H2DO+
+D2O + D2H+_PARA -> HD + D3O+
+D2O + D2H+_ORTHO -> HD + D3O+
+D2O + D2H+_PARA -> D2_ORTHO + HD2O+
+D2O + D2H+_PARA -> D2_PARA + HD2O+
+D2O + D2H+_ORTHO -> D2_ORTHO + HD2O+
+D2O + D2H+_ORTHO -> D2_PARA + HD2O+
+D2O + D3+_PARA -> D2_PARA + D3O+
+D2O + D3+_PARA -> D2_ORTHO + D3O+
+D2O + D3+_META -> D2_PARA + D3O+
+D2O + D3+_META -> D2_ORTHO + D3O+
+D2O + D3+_ORTHO -> D2_PARA + D3O+
+D2O + D3+_ORTHO -> D2_ORTHO + D3O+
+H2O + DNC+ -> CN + H2DO+
+HDO + HNC+ -> CN + H2DO+
+HDO + DNC+ -> CN + HD2O+
+D2O + HNC+ -> CN + HD2O+
+D2O + DNC+ -> CN + D3O+
+H2O + DNO+ -> NO + H2DO+
+HDO + HNO+ -> NO + H2DO+
+HDO + DNO+ -> NO + HD2O+
+D2O + HNO+ -> NO + HD2O+
+D2O + DNO+ -> NO + D3O+
+H2O + N2D+ -> N2 + H2DO+
+HDO + N2H+ -> N2 + H2DO+
+HDO + N2D+ -> N2 + HD2O+
+D2O + N2H+ -> N2 + HD2O+
+D2O + N2D+ -> N2 + D3O+
+C + H2DO+ -> H2_PARA + DCO+
+C + H2DO+ -> H2_ORTHO + DCO+
+C + H2DO+ -> HD + HCO+
+C + HD2O+ -> HD + DCO+
+C + HD2O+ -> D2_PARA + HCO+
+C + HD2O+ -> D2_ORTHO + HCO+
+C + D3O+ -> D2_PARA + DCO+
+C + D3O+ -> D2_ORTHO + DCO+
+CH + H2DO+ -> H2O + CHD+
+CH + H2DO+ -> HDO + CH2+
+CH + HD2O+ -> H2O + CD2+
+CH + HD2O+ -> HDO + CHD+
+CH + HD2O+ -> D2O + CH2+
+CH + D3O+ -> HDO + CD2+
+CH + D3O+ -> D2O + CHD+
+CD + H3O+ -> H2O + CHD+
+CD + H3O+ -> HDO + CH2+
+CD + H2DO+ -> H2O + CD2+
+CD + H2DO+ -> HDO + CHD+
+CD + H2DO+ -> D2O + CH2+
+CD + HD2O+ -> HDO + CD2+
+CD + HD2O+ -> D2O + CHD+
+CD + D3O+ -> D2O + CD2+
+H2O + CD+ -> C + H2DO+
+HDO + CH+ -> C + H2DO+
+HDO + CD+ -> C + HD2O+
+D2O + CH+ -> C + HD2O+
+D2O + CD+ -> C + D3O+
+H2O + ND+ -> N + H2DO+
+HDO + NH+ -> N + H2DO+
+HDO + ND+ -> N + HD2O+
+D2O + NH+ -> N + HD2O+
+D2O + ND+ -> N + D3O+
+H2O + OD+ -> O + H2DO+
+HDO + OH+ -> O + H2DO+
+HDO + OD+ -> O + HD2O+
+D2O + OH+ -> O + HD2O+
+D2O + OD+ -> O + D3O+
+H2O + NHD+ -> NH + H2DO+
+H2O + NHD+ -> ND + H3O+
+H2O + ND2+ -> NH + HD2O+
+H2O + ND2+ -> ND + H2DO+
+HDO + NH2+ -> NH + H2DO+
+HDO + NH2+ -> ND + H3O+
+HDO + NHD+ -> NH + HD2O+
+HDO + NHD+ -> ND + H2DO+
+HDO + ND2+ -> NH + D3O+
+HDO + ND2+ -> ND + HD2O+
+D2O + NH2+ -> NH + HD2O+
+D2O + NH2+ -> ND + H2DO+
+D2O + NHD+ -> NH + D3O+
+D2O + NHD+ -> ND + HD2O+
+D2O + ND2+ -> ND + D3O+
+H2DO+ + C- -> C + H + HDO
+H2DO+ + C- -> C + D + H2O
+HD2O+ + C- -> C + H + D2O
+HD2O+ + C- -> C + D + HDO
+D3O+ + C- -> C + D + D2O
+H2DO+ + O- -> H + O + HDO
+H2DO+ + O- -> D + O + H2O
+HD2O+ + O- -> H + O + D2O
+HD2O+ + O- -> D + O + HDO
+D3O+ + O- -> D + O + D2O
+H2DO+ + CN- -> H + CN + HDO
+H2DO+ + CN- -> D + CN + H2O
+HD2O+ + CN- -> H + CN + D2O
+HD2O+ + CN- -> D + CN + HDO
+D3O+ + CN- -> D + CN + D2O
+H3O+ + OD- -> H + OH + HDO
+H3O+ + OD- -> H + OD + H2O
+H3O+ + OD- -> D + OH + H2O
+H2DO+ + OH- -> H + OH + HDO
+H2DO+ + OH- -> H + OD + H2O
+H2DO+ + OH- -> D + OH + H2O
+H2DO+ + OD- -> H + OH + D2O
+H2DO+ + OD- -> H + OD + HDO
+H2DO+ + OD- -> D + OH + HDO
+H2DO+ + OD- -> D + OD + H2O
+HD2O+ + OH- -> H + OH + D2O
+HD2O+ + OH- -> H + OD + HDO
+HD2O+ + OH- -> D + OH + HDO
+HD2O+ + OH- -> D + OD + H2O
+HD2O+ + OD- -> H + OD + D2O
+HD2O+ + OD- -> D + OH + D2O
+HD2O+ + OD- -> D + OD + HDO
+D3O+ + OH- -> H + OD + D2O
+D3O+ + OH- -> D + OH + D2O
+D3O+ + OH- -> D + OD + HDO
+D3O+ + OD- -> D + OD + D2O
+H + H2DO+ -> H2_PARA + HDO+
+H + H2DO+ -> H2_ORTHO + HDO+
+H + H2DO+ -> HD + H2O+
+H + HD2O+ -> H2_PARA + D2O+
+H + HD2O+ -> H2_ORTHO + D2O+
+H + HD2O+ -> HD + HDO+
+H + HD2O+ -> D2_PARA + H2O+
+H + HD2O+ -> D2_ORTHO + H2O+
+H + D3O+ -> HD + D2O+
+H + D3O+ -> D2_PARA + HDO+
+H + D3O+ -> D2_ORTHO + HDO+
+D + H3O+ -> H2_PARA + HDO+
+D + H3O+ -> H2_ORTHO + HDO+
+D + H3O+ -> HD + H2O+
+D + H2DO+ -> H2_PARA + D2O+
+D + H2DO+ -> H2_ORTHO + D2O+
+D + H2DO+ -> HD + HDO+
+D + H2DO+ -> D2_ORTHO + H2O+
+D + H2DO+ -> D2_PARA + H2O+
+D + HD2O+ -> HD + D2O+
+D + HD2O+ -> D2_PARA + HDO+
+D + HD2O+ -> D2_ORTHO + HDO+
+D + D3O+ -> D2_ORTHO + D2O+
+D + D3O+ -> D2_PARA + D2O+
+H2_PARA + H2DO+ -> H + H + H2DO+
+H2_ORTHO + H2DO+ -> H + H + H2DO+
+H2_PARA + H2DO+ -> H + D + H3O+
+H2_ORTHO + H2DO+ -> H + D + H3O+
+H2_PARA + HD2O+ -> H + H + HD2O+
+H2_ORTHO + HD2O+ -> H + H + HD2O+
+H2_PARA + HD2O+ -> H + D + H2DO+
+H2_ORTHO + HD2O+ -> H + D + H2DO+
+H2_PARA + HD2O+ -> D + D + H3O+
+H2_ORTHO + HD2O+ -> D + D + H3O+
+H2_ORTHO + D3O+ -> H + H + D3O+
+H2_PARA + D3O+ -> H + H + D3O+
+H2_ORTHO + D3O+ -> H + D + HD2O+
+H2_PARA + D3O+ -> H + D + HD2O+
+H2_ORTHO + D3O+ -> D + D + H2DO+
+H2_PARA + D3O+ -> D + D + H2DO+
+HD + H3O+ -> H + H + H2DO+
+HD + H3O+ -> H + D + H3O+
+HD + H2DO+ -> H + H + HD2O+
+HD + H2DO+ -> H + D + H2DO+
+HD + H2DO+ -> D + D + H3O+
+HD + HD2O+ -> H + H + D3O+
+HD + HD2O+ -> H + D + HD2O+
+HD + HD2O+ -> D + D + H2DO+
+HD + D3O+ -> H + D + D3O+
+HD + D3O+ -> D + D + HD2O+
+D2_PARA + H3O+ -> H + H + HD2O+
+D2_ORTHO + H3O+ -> H + H + HD2O+
+D2_PARA + H3O+ -> H + D + H2DO+
+D2_ORTHO + H3O+ -> H + D + H2DO+
+D2_PARA + H3O+ -> D + D + H3O+
+D2_ORTHO + H3O+ -> D + D + H3O+
+D2_ORTHO + H2DO+ -> H + H + D3O+
+D2_PARA + H2DO+ -> H + H + D3O+
+D2_ORTHO + H2DO+ -> H + D + HD2O+
+D2_PARA + H2DO+ -> H + D + HD2O+
+D2_ORTHO + H2DO+ -> D + D + H2DO+
+D2_PARA + H2DO+ -> D + D + H2DO+
+D2_ORTHO + HD2O+ -> H + D + D3O+
+D2_PARA + HD2O+ -> H + D + D3O+
+D2_ORTHO + HD2O+ -> D + D + HD2O+
+D2_PARA + HD2O+ -> D + D + HD2O+
+D2_ORTHO + D3O+ -> D + D + D3O+
+D2_PARA + D3O+ -> D + D + D3O+
+H2DO+ + E -> H + H + OD
+H2DO+ + E -> H + D + OH
+HD2O+ + E -> H + D + OD
+HD2O+ + E -> D + D + OH
+D3O+ + E -> D + D + OD
+H2DO+ + E -> H + HDO
+H2DO+ + E -> D + H2O
+HD2O+ + E -> H + D2O
+HD2O+ + E -> D + HDO
+D3O+ + E -> D + D2O
+H2DO+ + E -> H2_PARA + OD
+H2DO+ + E -> H2_ORTHO + OD
+H2DO+ + E -> HD + OH
+HD2O+ + E -> HD + OD
+HD2O+ + E -> D2_PARA + OH
+HD2O+ + E -> D2_ORTHO + OH
+D3O+ + E -> D2_PARA + OD
+D3O+ + E -> D2_ORTHO + OD
+H2DO+ + E -> H + O + HD
+H2DO+ + E -> D + O + H2_PARA
+H2DO+ + E -> D + O + H2_ORTHO
+HD2O+ + E -> H + O + D2_PARA
+HD2O+ + E -> H + O + D2_ORTHO
+HD2O+ + E -> D + O + HD
+D3O+ + E -> D + O + D2_PARA
+D3O+ + E -> D + O + D2_ORTHO
